@@ -1,0 +1,654 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vanity and mischief of making earthly, together with the necessity and benefit of making heavenly treasures our chiefe treasure opened in a sermon at Mary Spittle, before the Right Honorable the Lord Major and court of aldermen, of the city of London, and divers worthy citizens at their solemn anniversarie meeting, on Tuesday in Easter Week, being the 17 of Aprill 1655. / By John Crodacott, preacher of Gods word at Saviours Southwark, and Sepulchres London.</title>
+            <author>Crodacott, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 97 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80829</idno>
+            <idno type="STC">Wing C6964</idno>
+            <idno type="STC">Thomason E844_11</idno>
+            <idno type="STC">ESTC R210367</idno>
+            <idno type="EEBO-CITATION">99869174</idno>
+            <idno type="PROQUEST">99869174</idno>
+            <idno type="VID">170602</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80829)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170602)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 248:E844[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vanity and mischief of making earthly, together with the necessity and benefit of making heavenly treasures our chiefe treasure opened in a sermon at Mary Spittle, before the Right Honorable the Lord Major and court of aldermen, of the city of London, and divers worthy citizens at their solemn anniversarie meeting, on Tuesday in Easter Week, being the 17 of Aprill 1655. / By John Crodacott, preacher of Gods word at Saviours Southwark, and Sepulchres London.</title>
+                  <author>Crodacott, John.</author>
+               </titleStmt>
+               <extent>[8], 48 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Kemb, at Margarets Hill in Southwark,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Order to print dated: Tuesday, April 23th. 1655.</note>
+                  <note>Running title reads: A sermon preched at Mary Spittle, on Tuesday in Easter weeke, Aprill 17, 1655.</note>
+                  <note>Annotation on Thomason copy: "June 23.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charity --  Sermons --  Early works to 1800.</term>
+               <term>Christian life --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170602:1" rendition="simple:additions"/>
+            <p>THE VANITY AND MISCHIEF <hi>OF</hi> Making Earthly, Together with the NECESSITY AND BENEFIT <hi>OF</hi> Making Heavenly TREASURES Our chiefe Treaſure:</p>
+            <p>Opened in a SERMON at <hi>Mary Spittle,</hi> Before the Right Honorable the Lord Major and Court of Aldermen, of the City of <hi>London,</hi> and divers worthy Citizens at their ſolemn Anniverſarie meeting, on <hi>Tueſday</hi> in <hi>Eaſter</hi> Week, being the 17 <hi>Aprill</hi> 1655.</p>
+            <p>
+               <hi>By</hi> John Crodacott, <hi>Preacher of Gods Word a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Saviours Southwark, <hi>and</hi> Sepulchres <hi>London.</hi>
+            </p>
+            <q>
+               <bibl>1 <hi>Tim.</hi> 6.17, 18, 19.</bibl>
+               <p>Charge them that are rich in this World, that they be not high minded, nor truſt in un<g ref="char:EOLhyphen"/>certain riches, but in the living God, who giveth us richly all things to enjoy That they do good, that they be rich in good works, ready to diſtribute, willing to communicate. Laying up in ſtore for themſelves a good foundation againſt the time to come, that they may lay hold on eternall life.</p>
+            </q>
+            <p>Printed for <hi>A. Kemb,</hi> at <hi>Margarets</hi> Hill in <hi>Southwark.</hi> 1655.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:170602:2"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Tueſday, April</hi> 23th. 1655.</date>
+               </dateline>
+               <salute>PACK Major,</salute>
+            </opener>
+            <p>ORdered, That Mr. <hi>Crodacott</hi> be deſired from this Court to Print his Sermon at the <hi>Spittle</hi> on <hi>Tueſday</hi> in <hi>Eaſter</hi>-week laſt.</p>
+            <closer>
+               <signed>SADLER.</signed>
+            </closer>
+            <pb facs="tcp:170602:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:170602:3"/>
+            <pb facs="tcp:170602:3"/>
+            <head>To the Right HONOURABLE Chriſtopher Pack, <hi>LORD MAJOR:</hi> AND The Right Worſhipful the Alder<g ref="char:EOLhyphen"/>men of the City of <hi>London.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen firſt I received your Summons to this work, I might have apologized for my ſelf with <hi>Elihu, I am young, and ye are very old, wherefore I was afraid,</hi>
+               <note place="margin">Job 32.6, 7</note> 
+               <hi>and durſt not ſhew you mine opinion. I ſaid dayes ſhould ſpeak, and multitude of years ſhould teach wiſdome.</hi> But out of
+<pb facs="tcp:170602:4"/> the mouth of babes and ſucklings hath the Lord ordai<g ref="char:EOLhyphen"/>ned ſtrength, &amp;c. and his ſtrength is uſually perfected in the creatures weakneſſe.<note place="margin">2 Cor. 12.9.</note> He can make a few barley loaves yield toothſome and wholeſome nouriſhment unto many thouſands; He can make the words of <hi>Na<g ref="char:EOLhyphen"/>amans</hi> faithful ſervants greater in operation, then the words of a great and good Prophet. Indeed many in our dayes look upon Preaching and Preachers, as <hi>Na<g ref="char:EOLhyphen"/>aman</hi> did upon the waters of <hi>Jordan,</hi> with <hi>Syrian</hi> eyes. Preaching is fooliſhneſſe in the worlds eſtimation, and Preachers are bablers; Saint <hi>Paul</hi> that great Apoſtle was ſo reputed and cenſured: the deſpicableneſſe of the carthen veſſel does too often (through Satans ſub<g ref="char:EOLhyphen"/>tiltie and innate corruption) prejudice hearers againſt the heavenlineſſe of the Treaſure I cannot accuſe any of you;<note place="margin">1 Theſſ. 2.13.</note> ſurely, what the Apoſtle ſaith of the <hi>Theſſa<g ref="char:EOLhyphen"/>lonians</hi> I may ſay of you in a judgement of charity, (I hope alſo of verity) <hi>When ye received the Word of God which ye heard, ye received it not as the word of man, but</hi> (as it is in truth) <hi>the Word of God.</hi> But where's the fruit of your ſo receiving the Word of God? The Word of God ſo received by them wrought effectually in them; hath it wrought alſo effectually in you? Hap<g ref="char:EOLhyphen"/>ly your faith may be as 'twere in travail, and readie to bring forth ſome works of mercie and charity: Now if the midwifery of this Sermon (in the Review) may
+<pb facs="tcp:170602:4"/> expedite the birth, I have what I levelled at, and ſhall bleſſe God for your ſummons (though as much unex<g ref="char:EOLhyphen"/>pected as undeſerved) to the Pulpit and Preſſe: Believe it Sirs, 'twere better for you to have the ſtone in the bladder or kidneys then to have ſuch a ſtone in your hearts or bowels, and ſuch a cramp in your hands, as does utterly indiſpoſe you for the doing of good with your goods. I could name you ſome eminent Saints,<note place="margin">Mr. <hi>Nicho<g ref="char:EOLhyphen"/>las Bifield,</hi> Vide Dr. <hi>Go<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ge</hi> his Epiſtle to the Read<g ref="char:EOLhyphen"/>er before Mr. <hi>Bifields</hi> Commen<g ref="char:EOLhyphen"/>tary upon the ſecond Chapter of the firſt Epiſtle of St. <hi>Peter.</hi> And Mr. <hi>Jeremiah Whitaker,</hi> who lately died in the Lord, and now reſt<g ref="char:EOLhyphen"/>eth from his la<g ref="char:EOLhyphen"/>bours, &amp;c.</note> that for ſome years lived, and at length died, labouring under thoſe bodilie diſtempers; but not any that lived and died, labouring under this ſoul-diſeaſe. He that refuſed to give a crum of bread on earth, was denied a drop of water in hell: Unmerciful men ſhall finde no mercie. There's fulneſſe of bread, but ô that I could ſay, There's fulneſſe of good works in this famous City! The former (though a good bleſſing of God in it ſelf) was one of <hi>Sodoms</hi> (O that it were not one of <hi>Londons</hi>) Vices. The latter was one of the <hi>Macedoni<g ref="char:EOLhyphen"/>ans</hi> (O that it might be one of <hi>Londons</hi>) Vertues, to cool your affections unto earthlie treaſures, and enkindle them unto heavenly, and unto works of charity (which even to a Proverb is grown cold) is the faithful endea<g ref="char:EOLhyphen"/>vour and aim of this Sermon. I know, not any man willingly (though manie deſervedly) when he is dead would have thoſe two words for his Epitaph, <hi>infoelici<g ref="char:EOLhyphen"/>ter foelix,</hi> unhappie in being ſo happie; 'twere better
+<pb facs="tcp:170602:5"/> have theſe two, <hi>foeliciter infoelix,</hi> happie in being un<g ref="char:EOLhyphen"/>happie. O then let the zeal of your faith ſparkle forth in works of charity: All men have not the honourable capacitie of being Almoners of the King of Heaven and Earth, as you have, who can better ſpare two ta<g ref="char:EOLhyphen"/>lents then ſome can two mites: The Lord grant, that as he hath been unto you, ſo you may be merciful and bountiful unto others: That as you are rich in worldly goods, ſo you may be rich in faith and good works, and in Gods ſet time be perſonally and fully poſſeſſed of the heavenlie Kingdome which he hath prepared for, and promiſed to them that love him; So praieth</p>
+            <closer>
+               <signed>
+                  <hi>The meaneſt and unworthieſt of the Lords Servants, and Yours in the Lords Work,</hi> John Crodacott.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:170602:5"/>
+            <head>The vaniy and miſchiefe of making earthly Treaſures Together with The neceſſity and benefit of making heavenly Treaſures Our chiefe Treaſure. Opened in a SERMON at <hi>Mary Spittle,</hi> Before the Right Honourable the Lord Major and Court of Aldermen, on <hi>Tueſday</hi> in <hi>Eaſter</hi> Week, being the 17. of <hi>Aprill</hi> 1655.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Matthew 6.19, 20.</hi>
+                  </bibl>
+                  <p>
+                     <bibl>
+                        <hi>19.</hi>
+                     </bibl> Lay not up for your ſelves treaſures upon earth, where moth and ruſt doth corrupt, and where theeves break through and ſteale.</p>
+                  <p>
+                     <bibl>
+                        <hi>20.</hi>
+                     </bibl> But lay up for your ſelves treaſures in heaven, where neither moth nor ruſt doth corrupt, and where theeves do not break through and ſteale.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg> Shall not trouble or detain you with any fur<g ref="char:EOLhyphen"/>ther preamble then what will make for the argument of the Text. In this Chapter (which containeth a part of that excellent Sermon which our bleſſed Lord and Saviour preached to his Diſciples and others in the Mount) two things are by him decryed and condemned.</p>
+            <p n="1">
+               <pb n="2" facs="tcp:170602:6"/>1 Hypocriſie, Oſtentation, and an affectation of vain glory, from the beginning of the Chapter to the nine<g ref="char:EOLhyphen"/>teenth Verſe.</p>
+            <p n="2">2 Covetouſneſſe, inordinate affections unto, and carking cares for, the things of this life, from the nine<g ref="char:EOLhyphen"/>teenth verſe to the end of the Chapter.</p>
+            <p n="1">1 The former, namely, all Hypocriſie and affecta<g ref="char:EOLhyphen"/>tion of vain glory, is decryed and condemned.</p>
+            <list>
+               <item>Firſt, In giving of Alms, from the 1 to the 5 <hi>Verſe.</hi>
+               </item>
+               <item>Secondly, In Prayer, from the 5 to the 16 <hi>Verſe.</hi>
+               </item>
+               <item>Thirdly, In Faſting, from the 16 to the 19 <hi>Verſe.</hi>
+               </item>
+            </list>
+            <p n="2">2 The latter, namely Covetouſneſſe, is decryed and condemned by ſundry forcible diſſwaſive argu<g ref="char:EOLhyphen"/>ments: All which, ſhould I diſtinctly enumerate and explain, 'twould eat up too much of the time alot<g ref="char:EOLhyphen"/>ted for this exerciſe; therefore I wave the enumeration and explanation of them. Be pleaſed to obſerve with me, that our bleſſed Saviour, well knowing that every man deſires and endeavours to have ſome treaſure or other, propounds a double Rule to be carefully obſer<g ref="char:EOLhyphen"/>ved by all Chriſtians in their treaſuring,</p>
+            <p n="1">1 The firſt is negative, ſhewing what we ſhould not make choice of for our treaſure, not worldly wealth, not any earthly thing whatſoever, in the 19 <hi>verſe. Lay not up for your ſelves treaſures upon earth.</hi>
+            </p>
+            <p n="2">2 The ſecond is affirmative, ſhewing what we may and ought to make choice of for our treaſure, in the 20 <hi>verſe. But lay up for your ſelves treaſures in heaven.</hi>
+            </p>
+            <p n="1">1 The former of theſe rules or precepts (call it which you will) which (you may ſee) is prohibitive or dehor<g ref="char:EOLhyphen"/>tatory, is
+<list>
+                  <item>1 Propounded.</item>
+                  <item>2 Preſſed.</item>
+               </list>
+            </p>
+            <p n="1">
+               <pb n="3" facs="tcp:170602:6"/>1 Conſider it as propounded, ſo there are four terms conſiderable.</p>
+            <list>
+               <item>1 An Act, <hi>To lay up.</hi>
+               </item>
+               <item>2 The Obj<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, <hi>Treaſures.</hi>
+               </item>
+               <item>3 The Place, <hi>Upon earth.</hi>
+               </item>
+               <item>4 The End, <hi>For your ſelves.</hi>
+               </item>
+            </list>
+            <p n="2">2 Conſider it as preſſed by, or backed with an ar<g ref="char:EOLhyphen"/>gument drawn from the inſtability and uncertainty of earthly treaſures, which are obnoxious or ſubject unto a double danger.</p>
+            <p n="1">1 Of vanity in themſelves, the moth or ruſt may and will in time corrupt them.</p>
+            <p n="2">2 Of violence from others, though moth and ruſt do not, yet robbery may undoe us.</p>
+            <p>Theeves may ſteal away our earthly treaſures.</p>
+            <p n="2">2 The latter of theſe rules or precepts, which (you may ſee) is injunctive or hortatory, is likewiſe;
+<list>
+                  <item>1 Propounded.</item>
+                  <item>2 Preſſed.</item>
+               </list>
+            </p>
+            <p>Conſider it as propounded, and ſo there are four terms likewiſe conſiderable.</p>
+            <list>
+               <item>1 An Act, <hi>To lay up.</hi>
+               </item>
+               <item>2 The Object, <hi>Treaſures.</hi>
+               </item>
+               <item>3 The place, <hi>In heaven.</hi>
+               </item>
+               <item>4 The end, <hi>For your ſelves.</hi>
+               </item>
+            </list>
+            <p n="2">2 Conſider it as preſſed by, or backed with, an ar<g ref="char:EOLhyphen"/>gument drawn from the ſtability and certainty of hea<g ref="char:EOLhyphen"/>venly Treaſures.</p>
+            <p n="1">1 They are incorruptible in their own nature, nei<g ref="char:EOLhyphen"/>ther moth nor ruſt can corrupt them.</p>
+            <p n="2">2 They are out of the reach of fraud and violence, Theeves cannot ſteal them away from us: <hi>Lay up for your ſelves, &amp;c.</hi>
+            </p>
+            <pb n="4" facs="tcp:170602:7"/>
+            <p>In the handling of this Text, I ſhall endeavour to be ſerviceable to your ſouls, By</p>
+            <list>
+               <item>1 An explication of the ſeverall terms.</item>
+               <item>2 The confirmation of the Propo<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ions deducible or emergent.</item>
+               <item>3 The application of them unto your and mine own ſoul.</item>
+            </list>
+            <p>I begin with the firſt, namely, the explication of the ſeverall terms: and firſt,</p>
+            <p n="1">1 Of the Act, <hi>Lay not up:</hi> the Greeke word is very ſignificant, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> treaſure not up, it imports two things.</p>
+            <p n="1">1 To gather together.</p>
+            <p n="2">2 To hoard or heap up in ſtore things gathered for tomorrow, for hereafter, againſt the time to come; which is the literall notation of the word, a laying up for tomorrow, for hereafter.</p>
+            <p n="2">2 The object and place, I ſhall joyn them toge<g ref="char:EOLhyphen"/>ther, treaſures upon earth, our Saviour herein aimes not ſo much at the place, as at the kindes of treaſures; for heavenly treaſures may and ought to be laid up by us whilſt we are on this ſide heaven, as is evident from the 20 verſe, <hi>Lay up for your ſelves treaſures in heaven.</hi> 'Tis the laying up of earthly treaſures that our Saviour condemns.</p>
+            <p>But what are thoſe earthly treaſures which we may not treaſure up, as our chief treaſure? (for that's chief<g ref="char:EOLhyphen"/>ly intended.) <hi>Anſw.</hi> There a<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> three ſorts of earthly things (as one well obſerves) which humane provi<g ref="char:EOLhyphen"/>dence is wont to ſtore or treaſure up.</p>
+            <p n="1">1 Garments or Clothes, which were wont to be a great treaſure in this Nation, eſpecially in this City, but the itch and vanity of changing faſhions hath
+<pb n="5" facs="tcp:170602:7"/> much impaired this treaſure in our dayes.</p>
+            <p n="2">2 Com and Fruits of the earth, thus we read, 2 <hi>Cron.</hi> 32.28. that <hi>Hezekiah had ſtore-houſes</hi> (which were a kinde of treaſuries) <hi>for the increaſe of corn and wine and oil.</hi>
+            </p>
+            <p n="3">3 Gold and Silver, Jewels, and the like; thus we read, 2 <hi>Chron.</hi> 32.27. that <hi>Hezekiah had treaſuries for ſilver and for gold, and for precious ſtones, and for all manner of pleaſant Jewels.</hi>
+            </p>
+            <p>Now theſe three ſorts of earthly treaſures our Savi<g ref="char:EOLhyphen"/>our tells us are ſubject to ſuch great uncertainties as ren<g ref="char:EOLhyphen"/>der them unfit and unworthy to be ſtored or treaſured up as our chief treaſure, for</p>
+            <p n="1">1 Garments or Clothes are ſubject to moths, <hi>Iſa.</hi> 51.8. <hi>the moth ſhall eat them up like a garment,</hi> which is a proverbial ſpeech; and, <hi>James</hi> 5.2. the Apoſtle tells us, <hi>they are more then ſubject to mothes.</hi> The moth actually eats them, your garments are moth-eaten.</p>
+            <p n="2">2 Corn and fruits of the earth are ſubject to ruſt, not that which Iron is ſubject unto, but that which ſpoils corn and fruits of the earth, which is in ſome Coun<g ref="char:EOLhyphen"/>treys called ſmut, in other Countreys ruſt;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> tranſ<g ref="char:EOLhyphen"/>fertur ad veſtes. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> vero ad cibos. <hi>Theoph.</hi>
+               </note> for which notation of the word, as moſt proper and pertinent in this place, ſome Criticks do contend.</p>
+            <p n="3">3 Gold and ſilver, Jewels, and the like, are ſubject to fraud and violence from others: thus we read, that <hi>all Hezekiahs treaſures were carried away as a ſpoil to Ba<g ref="char:EOLhyphen"/>bylon, which was threatened in the dayes of Hezekiah by the Prophet Iſaiah for his pride of heart and vain-glory, in ſhewing all his treaſures to the Ambaſſadours of the King of Babylon,</hi> 2 <hi>Kings</hi> 20.13. compared with the the 17th. verſe, and accordingly accompliſhed in the daies of <hi>Jehoiakim,</hi> 2 <hi>King.</hi> 24.13. <hi>He</hi> (that is, the
+<pb n="6" facs="tcp:170602:8"/> King of <hi>Babylon) carried out thence all the treaſures of the Houſe of the Lord, and the treaſure of the Kings houſe, &amp;c.</hi> You ſee what is meant by treaſures upon earth.</p>
+            <p n="4">4 The end (which is the fourth term) <hi>For your ſelves,</hi> ſelf is a poor centre, yet is it the centre of moſt mens ſtudies and actions. 'Twas the Apoſtle <hi>Pauls</hi> com<g ref="char:EOLhyphen"/>plaint, <hi>Phil.</hi> 2.21. <hi>That all</hi> (that is, the greater part) <hi>ſeek their own. Its an empty vine that brings forth fruit to it ſelf,</hi> Hoſ. 10.1. Yet with many ſuch empty vines is the earth cumbred, though no man be born for himſelf, nor enriched with terrene riches for himſelf, yet carnal men are all for themſelves, now they live to themſelves and ere long they will alſo die to themſelves. This hoarding or treaſuring up earthly treaſures for our ſelves without any regard had unto either the incum<g ref="char:EOLhyphen"/>bent or imminent, the preſent or future neceſſities of the Common-wealth, or the Church, or the Poor, our bleſſed Lord here prohibits, <hi>Lay not up for your ſelves treaſures upon earth.</hi>
+            </p>
+            <p>Thus you have the explication of the terms of the 19th. verſe, from whence I might raiſe ſeveral Corol<g ref="char:EOLhyphen"/>laries or Doctrinal Concluſions, which naturally ariſe out of this Scripture; but I ſhall mention but one unto you, under which ſome others deducible ſhall in my ſubſequent Diſcourſe be touched upon and hinted at: the Obſervation is this;</p>
+            <p> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſerv. </seg>
+               </label> That Chriſtians ought not to treaſure up worldly wealth, or any earthly thing whatſoever as their chief treaſure.</p>
+            <p>To prevent miſtake, I ſhall premiſe two things before I fall directly upon the point.</p>
+            <p n="1">1 That all treaſuring up of earthly treaſures is not in this place ſimply condemned.</p>
+            <p n="2">
+               <pb n="7" facs="tcp:170602:8"/>2 That the ſimple poſſeſſion of earthly treaſures is not here condemned, nor is it unlawful or unwarranta<g ref="char:EOLhyphen"/>ble: I begin with the former <hi>(viz.)</hi>
+            </p>
+            <p n="1">1 That all treaſuring up of earthly treaſures is not in this place ſimply condemned: for,</p>
+            <p>Firſt, Induſtry and diligence in a lawful and warran<g ref="char:EOLhyphen"/>table vocation or calling in order to a competent pro<g ref="char:EOLhyphen"/>viſion of terrene or earthly things for our ſelves, is not condemned in Sacred Writ, but commended; the cuſto<g ref="char:EOLhyphen"/>dy and culture of Paradiſe was committed to <hi>Adam</hi> in innocency, <hi>Gen.</hi> 2.15. <hi>The Lord God took the man and put him into the Garden of Eden to dreſſe it and to keep it.</hi> Even then <hi>Adam</hi> was to be a labourer, not a loiter<g ref="char:EOLhyphen"/>er: 'Tis true, the <hi>taedium,</hi> the irkſomneſſe, and weari<g ref="char:EOLhyphen"/>neſſe which cometh by labouring is the fruit of ſin, but the duty <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f labour was before ſin, before the fall of man: Since the fall of man it is Gods Ordinance, that <hi>in the ſweat of our faces</hi> (our brows or brains) <hi>we ſhould eat bread, until we return to the ground,</hi> Gen. 3.19. which Sanction or Ordinance the Goſpel hath not <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ullified or mollified into delicacy or idleneſſe, but inforceth <hi>ſub poenâ,</hi> under a penalty, 2 <hi>Theſſ</hi> 3.10. <hi>When we were with you</hi> (ſaith the Apoſtle) <hi>this we commanded you, that if any would not work neither ſhould he eat.</hi> Where, the Apo<g ref="char:EOLhyphen"/>ſtle doth not ſay, If any man cannot; but, <hi>If any man will not work, neither ſhould he eat.</hi>
+            </p>
+            <p n="2">2 Induſtry and diligence in a lawfull and warrant<g ref="char:EOLhyphen"/>able Vocation or Calling, in order to a competent pro<g ref="char:EOLhyphen"/>viſion of earthly things for our Children and Relati<g ref="char:EOLhyphen"/>ons, is not condemned in Sacred Writ, but commend<g ref="char:EOLhyphen"/>ed, 2 <hi>Cor.</hi> 12.14. <hi>Parents ought to lay up for their Chil<g ref="char:EOLhyphen"/>dren?</hi> And the ſame Holy Apoſtle hath branded him with a black coal, that provides not for his own; 1 <hi>Tim.</hi>
+               <pb n="8" facs="tcp:170602:9"/> 5.8. <hi>If any provide not for his own, and eſpecially for thoſe of his own houſe, he hath denyed the faith, and is worſe then an Infidel.</hi> 'Tis granted, an exceſſive ſoli<g ref="char:EOLhyphen"/>citude or carking thoughtfulneſſe, what ſhall become of our ſelves when we are old, or of our children when we are dead, is condemned: but a provident Chriſtian care for our ſelves and families, is agreeable to the principles both of Humanity and Religion. Thus you ſee that all treaſuring up of earthly treaſures is not here ſimply condemned,</p>
+            <p n="2">2 The ſimple poſſeſſion of earthly treaſures is not here condemned, nor is it unlawfull or unwarrantable, which is demonſtrable by three arguments.</p>
+            <p n="1">1 They come out of Gods good treaſury, and are good bleſſings in themſelves, <hi>Deut.</hi> 28.12. <hi>The Lord ſhall open unto thee his good Treaſure, the he<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>en to give the rain unto thy Land in his ſeaſon, and to bleſſe all the work of thine hand, and thou ſhalt lend unto many Nati<g ref="char:EOLhyphen"/>ons, and thou ſhalt not borrow.</hi> Thus the Lord tels <hi>Solo<g ref="char:EOLhyphen"/>mon,</hi> 2 <hi>Chron.</hi> 1.11, 12. That becauſe he had not asked riches, and wealth, and honour for himſelfe, but wiſ<g ref="char:EOLhyphen"/>dome and knowledge; therefore he will give him riches, and wealth, and honour, as an overplus or ad<g ref="char:EOLhyphen"/>vantage. <hi>I will give thee riches and wealth, and honour, ſaith the Lord.</hi>
+            </p>
+            <p n="2">2 They put a price into the hands of the poſſeſſors to glorifie God and do good unto others. O! what precious and ample opportunities have ſuch men as do abound with earthly treaſures to abound alſo in good works, <hi>Eccleſ.</hi> 7.11. <hi>Wiſdome is good</hi> (ſaith the Wiſe<g ref="char:EOLhyphen"/>man) <hi>with an Inheritance:</hi> why is not wiſdom good without an Inheritance? yes, but 'tis better with then without an Inheritance. Wiſdome is more conſpicu<g ref="char:EOLhyphen"/>ous
+<pb n="9" facs="tcp:170602:9"/> and more uſeful with then without an Inheritance. A Diamond in a dirty rag is a Diamond, but in a gold ring it ſparkles and is more illuſtrious: So grace in a poor man is grace, and 'tis beautiful, but grace in a rich man is more conſpicuous, more uſeful.</p>
+            <p>In ſhort, earthly treaſures are not only an ornament unto wiſdome, but alſo an excellent inſtrument, where<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the owner is enabled to do much good.</p>
+            <p n="3">3 God hath given earthly treaſures unto thoſe that were good, which he would never have done if they were ſimply evil in themſelves: thus we read that <hi>A<g ref="char:EOLhyphen"/>braham</hi> was a very rich man, <hi>Gen.</hi> 13.2. <hi>Abraham was very rich</hi> (ſaith the Text) <hi>in cattel, in ſilver, and in gold,</hi> A very rich man and a very holy man too; and we read that <hi>Davids</hi> treaſures were exceeding great, 1 <hi>Chron.</hi> 22.14. <hi>he left Solomon for the building of the Temple an hundred thouſand talents of Gold, and a thou<g ref="char:EOLhyphen"/>ſand thouſand talents of ſilver, &amp;c.</hi> So exceeding great were holy <hi>Davids</hi> treaſures, that man after Gods own heart, 1 <hi>Sam.</hi> 13.14. Thus we <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ead that <hi>Job was the greateſt man of all the men of the Eaſt,</hi> Job 1.3. the moſt famous for wealth and honour: And as he was greater in worldly goods; ſo was he alſo greater in grace and piety then any that lived in thoſe Eaſtern parts; 8 verſe, <hi>There is none like him in the earth, a per<g ref="char:EOLhyphen"/>fect and an upright man, one that feareth God and eſ<g ref="char:EOLhyphen"/>cheweth evil.</hi> Now ſurely the Lord would never have given earthly treaſures to thoſe and others of his Worthies, had <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he poſſeſſion of them been unlawful, <hi>Divitiae nè malae putentur dantur bonis, nè <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>agna vel ſummae dantur &amp; malis,</hi> ſaith <hi>Auguſtine,</hi> leſt we ſhould think riches evil in themſelves, they are given to thoſe that are good; and leſt riches ſhould be thought the
+<pb n="10" facs="tcp:170602:10"/> chiefeſt good, they are given to thoſe that are evil. Thus you ſee the poſſeſſion or fruition of earthly trea<g ref="char:EOLhyphen"/>ſures is not unwarrantable or unlawful.</p>
+            <p n="3">3 But now (and ſo I come to the point) the treaſu<g ref="char:EOLhyphen"/>ring up of worldly wealth or any earthly thing what<g ref="char:EOLhyphen"/>ſoever; as our chief treaſure is never commended in Sa<g ref="char:EOLhyphen"/>cred Writ, but ever condemned. If you ask me what it is to treaſure up worldly wealth, or any earthly th<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> whatſoever, as our chief treaſure? I anſwer, it implies three things.</p>
+            <list>
+               <item>1 Inordinate affection unto any earthly thing as our chief treaſure.</item>
+               <item>2 Exceſſive purſuit after any earthly thing as our chief treaſure.</item>
+               <item>3 Vain confidence and truſt in any earthly thing as our chief treaſure.</item>
+            </list>
+            <p n="1">1 Inordinate affection unto earthly treaſures, our hearts and affections ſhould not be wedded and wedg<g ref="char:EOLhyphen"/>ed to the goods of this world. Earthly treaſures we may have in our hands; but cannot, in our hearts with<g ref="char:EOLhyphen"/>out ſin: have them we may, but love them as our chief treaſure we may not, 1 <hi>John</hi> 2.15. <hi>Love not the world, neither the things that are in the world.</hi> The Apoſtle doth not ſay, Have not the world, neither the things that are in the world, but love them not; Take heed of paſſing over your hearts and affections to thoſe things you have in your hands.</p>
+            <p n="2">2 Exceſſive purſuit after them; 1 <hi>Timothy</hi> 6.9. the Apoſtle ſpeaks of ſome that will be rich, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſome men are reſolved to be rich, <hi>per fas &amp; ne<g ref="char:EOLhyphen"/>fas,</hi> either by hook or crook; as they uſually ſay; all is fiſh with them that comes to their hook or net, they will have earthly treaſures, though they hazard their heaven-born ſouls for them; they will treaſure up wealth, although they treaſure up wrath withall; if they cannot get earthly treaſures in a fair, they wil (if it
+<pb n="11" facs="tcp:170602:10"/> be poſſible) in a foul and unwarrantable way: thus <hi>Ju<g ref="char:EOLhyphen"/>das</hi> will betray his Lord and Maſter rather then not be fingring the pieces of ſilver, <hi>Matth.</hi> 26.15, 16. <hi>They</hi> (that is, the chief Prieſts) <hi>covenanted with him for thir<g ref="char:EOLhyphen"/>ty pieces of ſilver, and from that time he ſought opportuni<g ref="char:EOLhyphen"/>ty to betray him.</hi>
+            </p>
+            <p n="3">3. Vain confidence and truſt in them; <hi>Prov.</hi> 10.15. <hi>The rich mans wealth is his ſtrong City.</hi> The worldlings wedge is his confidence, his gold is his god: <hi>Jer.</hi> 48.7. we finde the <hi>Moabites</hi> charged herewith, <hi>Thou haſt tru<g ref="char:EOLhyphen"/>ſted in thy works and in thy treaſures:</hi> and, <hi>Jer.</hi> 49.4. we finde the <hi>Ammonites,</hi> who were the <hi>Moabites</hi> brethren, charged with the like vain confidence: <hi>Wherefore glo<g ref="char:EOLhyphen"/>rieſt thou in thy valleys, thy flowing valley, ô backſliding daughter? that truſted in her treaſures, ſaying, who ſhall come unto me?</hi> Thus did that rich fool in the Goſpel, <hi>Luke</hi> 12.19. <hi>Soul</hi> (ſaith he) <hi>thou haſt much goods laid up for many years, take thine eaſe, eat, drink, and be mer<g ref="char:EOLhyphen"/>ry.</hi> Thus you ſee what it is for a man to <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ke earthly treaſures his chief treaſure.</p>
+            <p>I come now to the reaſons or grounds of the point, why Chriſtians ought not to treaſure up earthly trea<g ref="char:EOLhyphen"/>ſures, as their chief treaſure.</p>
+            <p>Now the reaſons or grounds may be taken,</p>
+            <p n="1">1 From the nature and quality of earthly treaſures.</p>
+            <p n="2">2 From the nature of the ſinne of treaſuring up earthly treaſures, as our chief treaſure.</p>
+            <p n="1">1 From the nature of earthly treaſures, which be pleaſed to conſid<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r with me.</p>
+            <p n="1">1. Generally.</p>
+            <p n="2">2 More particularly.</p>
+            <p n="1">1 In general inquire into the Parentage or Pedi<g ref="char:EOLhyphen"/>gree.</p>
+            <p n="1">
+               <pb n="12" facs="tcp:170602:11"/>1 Of gold and ſilver, pearls, and precious ſtones, what are they but clods of duſt, white &amp; yellow earth, the guts and garbage of the earth, thick clay; ſo <hi>Hab<g ref="char:EOLhyphen"/>bakkuk</hi> 2.6. terms them; <hi>Wo to him that ladeth himſelf with thick clay:</hi> that is, with earthly riches; the earth is the baſeſt of the four Elements, yet is it the womb of gold and ſilver, which ſilly muck wormes ſo much admire and adore, yea, thoſe mountains, in the bowels of which is moſt gold and ſilver are moſt barren and unfruitful.</p>
+            <p n="2">2 Of coſtly clothes and garments, your Silks, and Sattins, and Velvets; what are they, but the iſſue of wormes: Man himſelf is but a worm, <hi>Job</hi> 25.6. <hi>How much leſſe man that is a worm, and the ſon of man which is a worm,</hi> ſaith <hi>Bildad.</hi> And when man is arrayed in Silks or Sartins, or Velvets, what is his clothing but the iſſue or excrements of worms? Now are theſe things worthy to be our chief treaſure which have ſo vile a pedi<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e, ſo baſe an original?</p>
+            <p n="2">2 More parti<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ularly be pleaſed to conſider with me the nature and quality of earthly treaſures.</p>
+            <p n="1">1 Negatively, what they are not.</p>
+            <p n="2">2 Affirmatively, what they are.</p>
+            <p n="1">1 Negatively, what they are not. <hi>Anſw.</hi> They are,</p>
+            <p n="1">1 Not diſtinguiſhing.</p>
+            <p n="2">2 Not ſatisfying.</p>
+            <p n="3">3 Not reforming.</p>
+            <p>
+               <note place="margin">
+                  <hi>Turcium Imperium quantum quantum eſt, mica tantum eſt quam pa<g ref="char:EOLhyphen"/>ter-fami<g ref="char:EOLhyphen"/>lias pro<g ref="char:EOLhyphen"/>jicit cani<g ref="char:EOLhyphen"/>bus.</hi> The whole Turkiſh Empire (ſays <hi>Lu<g ref="char:EOLhyphen"/>ther</hi>) is but a crum that the Maſter of the Fami<g ref="char:EOLhyphen"/>ly throws to a Dog.</note>Firſt, not diſtinguiſhing: if the ſpecial love and fa<g ref="char:EOLhyphen"/>vour of God were graven on gold or ſilver, pearls, or precious ſtones, 'twould be not onely lawful but lauda<g ref="char:EOLhyphen"/>ble and commendable in us to treaſure and ſtore them up. But, beloved, they are not characteriſtical, eviden<g ref="char:EOLhyphen"/>tial, or demonſtrative, of the ſpecial love and favour of
+<gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="13" facs="tcp:170602:11"/> Nay, a man may be outwardly bleſſed, yet inwardly curſed; Wicked men have had their belli<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s filled with eatthly treaſures, <hi>Pſal.</hi> 17.14. the Pſalmiſt ſpeaks of men of the world, which have their portion in this life, <hi>whoſe belly</hi> (ſaith he) <hi>thou filleſt with thy hid treaſure. Nimrod</hi> (we read) was a mighty man in the earth; <hi>Gen.</hi> 10.8. <hi>A man great in outward greatneſſe, and as great in wickedneſſe as in greatneſſe.</hi> verſ. 9. <hi>He was a mighty hunter before the Lord. Iſmael</hi> had a large portion of earthly treaſures out of Gods treaſury, a numerous, a noble progeny of twelve Princes, but the principal bleſſings are ſetled upon <hi>Iſaac</hi> by ſolemn Covenant, <hi>Gen.</hi> 17.20, 21. <hi>Eſau was a prophane wretch, yet the fat<g ref="char:EOLhyphen"/>neſſe of the earth and of the dew of heaven from above was his portion and bleſſing:</hi> Gen. <hi>27.39. Behold, thy dwelling ſhall be the fatneſſe of the earth, and of the dew of heaven from above:</hi> and after God had rejected <hi>Saul,</hi> yet he ſuffered him to proſper much; he had ma<g ref="char:EOLhyphen"/>ny victories and great riches; 1 <hi>Sam. 13.</hi> you read, <hi>he was rejected,</hi> yet <hi>Chap.</hi> 14, 15. you read, that <hi>after this he proſpered.</hi> And (to name no more) <hi>Judas</hi> had the bag in his hand, or at his girdle, but the Devil in his heart.</p>
+            <p n="2">2 They are not ſatisfying, <hi>Eccleſiastes</hi> 5.10. <hi>He that loveth ſilver ſhall not be ſatisfied with ſilver, nor he that loveth abundance with increaſe.</hi> The Heathen poor man at the firſt would have of his God but a thouſand ſheep, but when he had them, he deſired more, ſaying, <hi>pauperis eſt numerare peous:</hi> 'Tis the lot of a poor man to be able to number his cattel. Earthly treaſures can<g ref="char:EOLhyphen"/>not fill our ſouls no more then heavenly can fill our cheſts or bags: our ſouls are more capacious then our cheſts or bags, then the greateſt affluence, or abundance
+<pb n="14" facs="tcp:170602:12"/> of earthly treaſures. O! my beloved, how many in this City have enough to ſink them, yet have they not enough to ſatisfie them.</p>
+            <p>In ſhort, a covetous mans deſires are like a burning fire, whereof earthly treaſures are the wood and fuel: which, although they may ſeem to abate the fire for the preſent, yet will it burn more vehemently afterwards.</p>
+            <p n="3">3 They are not reforming, <hi>Pſal.</hi> 73.12. behold, theſe are the ungodly, who proſper in the world, they increaſe in riches. Obſerve it, they proſpered and increaſed in riches, and yet they were wicked and ungodly; where do you read, that large poſſeſſions of earthly treaſures have had ſuch an influence either into the hearts or lives of the poſſeſſors, as to make them better? I need not tell you how <hi>David,</hi> and <hi>Solomon,</hi> and others fell fouly by their proſperous and flouriſhing eſtate. In a word, they make the owners richer, but very ſeldome better: Thus you ſee what earthly treaſures are not.</p>
+            <p n="2">2 Affirmatively, be pleaſed to conſider what they are. <hi>Anſw.</hi> They are,
+<list>
+                  <item>1 Deceiving.</item>
+                  <item>2 Defiling.</item>
+                  <item>3 Periſhing.</item>
+                  <item>4 Plaguing.</item>
+               </list>
+            </p>
+            <p n="1">1 They are deceiving; they promiſe much, but perform nothing of what they promiſe: men come to the Worlds felicities as unto a Lottery (as one wittily) with heads full of hopes, but return with hearts full of blanks. As <hi>Ixion</hi> embraced a cloud for <hi>Juno:</hi> So do worldlings ſhadows for ſubſtances. <hi>Balaam</hi> (we read) loved the wages of unrighteouſneſſe; 2 <hi>Pet.</hi> 2.15. <hi>And he poſted after it, but what did he get by it but a ſword in his bowels.</hi> Numb. 31.8. <hi>Copartner he was with thoſe
+<pb n="15" facs="tcp:170602:12"/> in ſuffering, whoſe Counſellour for wages of unrighteouſ<g ref="char:EOLhyphen"/>neſſe he had been in ſinning.</hi> What did <hi>Achan</hi> get by the Babyloniſh garment, and the two hundred ſhekels of ſilver, and the wedge of gold of fifty ſhekels weight which he hid in the earth, <hi>Joſhua</hi> 7.21. What (I ſay) did he get by theſe treaſures, but the ſtones about his ears; <hi>v.</hi> 25. <hi>All Iſrael ſtoned him with ſtones.</hi> Thus the ſa<g ref="char:EOLhyphen"/>crilegious wretch loſt his treaſure &amp; his life alſo. And what did <hi>Gehazie</hi> get by his li<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for a talent of ſilver and two changes of garments (<hi>2 Kings 5.22) but a Lepro<g ref="char:EOLhyphen"/>ſie ſticking to him and unto his ſeed for ever,</hi> as you may read at the 27. verſe. And what got <hi>Judas</hi> by his thir<g ref="char:EOLhyphen"/>ty pieces of ſilver but the halter about his nec<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no ſoo<g ref="char:EOLhyphen"/>ner was his conſcience awakened, but the thirty pieces proved too hot for his fingers, <hi>Matth.</hi> 27.5. <hi>He caſt down the pieces of ſilver, and went and hanged himſelf.</hi> This is one curſe that is come upon the creature ſince the fall of man, it is deceiving, it raiſeth mens expecta<g ref="char:EOLhyphen"/>tions, but anſwers them not.</p>
+            <p n="2">2 They are defiling, this is another curſe that is come upon the creature, it does not onely raiſe mens expecta<g ref="char:EOLhyphen"/>tions, but it draws out and feeds their corruptions. So ſubject are theſe metals which worldlings dote upon to defile us, that God made a law to have them purified 'ere he would have them uſed, <hi>Numb.</hi> 31.22, 23. <hi>Ter<g ref="char:EOLhyphen"/>tullian</hi> is of opinion, that <hi>Judas</hi> carried himſelf honeſt<g ref="char:EOLhyphen"/>ly, <hi>uſque ad loculorum officium,</hi> until he was made his ma<g ref="char:EOLhyphen"/>ſters purſe-bearer: ſome of the Popes have been ſo ingenious, as to acknowledge, that their honours and earthly treaſures have changed their manners for the worſe. Pope <hi>Adrian</hi> the ſixth, ſaid, that nothing be<g ref="char:EOLhyphen"/>fell him more unhappy in all his life, then that he had
+<pb n="16" facs="tcp:170602:13"/> been head of the Church, and Monarch of the Chri<g ref="char:EOLhyphen"/>ſtian Common-wealth. And another Pope, <hi>Pius Quintus</hi> by name, ſaith, When I firſt entred into Or<g ref="char:EOLhyphen"/>ders I had ſome good hopes of my ſalvation; when I became Cardinal I doubted of it; but ſince I came to be Pope, I do even almoſt deſpaire. If povertie and want hath ſlain it's thouſand, ſurely plenty and abun<g ref="char:EOLhyphen"/>dance of earthly treaſure hath ſlain its ten thouſand. Shall I inſtance in ſome of thoſe luſts which are drawn out and fed by earthly treaſures? I'le name but four;
+<list>
+                  <item>1 The luſt of Pride.</item>
+                  <item>2 The luſt of Gluttony and Drunkenneſſe.</item>
+                  <item>3 Th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> luſt of Uncleanneſſe.</item>
+                  <item>4 The luſt of Malice and Revenge.</item>
+               </list>
+            </p>
+            <p n="1">1 The luſt of Pride; O! how is it fed by earthly treaſures; Poverty does even ſtarve pride in many, but an affluence and abundance of earthly treaſures feeds it to the full: We have an Engliſh Proverb; <hi>As riſeth our good, ſo riſeth our blood;</hi> and 'tis too often verifi<g ref="char:EOLhyphen"/>ed,<note place="margin">
+                  <hi>Auguſt.</hi> de Temp.</note> 
+               <hi>Magnus eſt dives, qui non ideo ſe magnum putat, quia dives eſt,</hi> ſaith <hi>Auguſtine;</hi> He is a great (indeed a rare rich man) that counts not himſelf greater for his riches. <hi>Vermis divitiarum eſt ſuperbia,</hi> ſaith the ſame Ancient, Pride breeds in wealth, as the worm doth in the nut or apple; hence it is, that <hi>Paul</hi> ſtraightly chargeth <hi>Timo<g ref="char:EOLhyphen"/>thy</hi> to charge rich men that they be not high-minded, 1 <hi>Tim</hi> 6.17. <hi>Charge them that are rich in this world that they be not high-minded.</hi>
+            </p>
+            <p n="2">2 The luſt of Gluttony &amp; Drunkeneſſe, we read of a rich man that fared deliciouſly every day. <hi>Luke</hi> 16.19. It is ſtoried of one <hi>Apicius</hi> that his kitchen expences amounted unto more then two millions of gold <hi>per an<g ref="char:EOLhyphen"/>num;</hi> and that at length, finding by his accompt that he
+<pb n="17" facs="tcp:170602:13"/> had eaten up ſo much of his eſtate, as that there re<g ref="char:EOLhyphen"/>mained not enough to maintaine his wonted luxurie; He dranke down a glaſſe of poiſon: And as for drunk<g ref="char:EOLhyphen"/>enneſſe that's <hi>regius morbus</hi> (as one calls it) a coſtly ſinne; what ſhall I ſay? a full purſe for a time main<g ref="char:EOLhyphen"/>tains fat diſhes and full cups, but at length ſuch fat diſhes and full cups will make an empty purſe.</p>
+            <p n="3">3 The luſt of Uncleanneſſe; O! how is it fed with earthly treaſures, men that have great eſtates have fuel for that luſt: when the prodigal ſon had gotten his por<g ref="char:EOLhyphen"/>tion into his own hands, then was he a fit companion for harlots, doubtleſſe many ſecret whoredomes are maintained, many unlawful iſſues kept and ſhifted off in this City by men that abound with earthly trea<g ref="char:EOLhyphen"/>ſures.</p>
+            <p n="4">4 The luſt of Malice and Revenge; great and rich men are oftentimes great oppreſſors and grinders of the faces of the poor. 'Tis not immaterial to be obſerved, that the dreadful woes denounced in Scripture againſt this ſin of oppreſſion are levelled againſt great and rich men: as, <hi>Iſa.</hi> 10.1, 2. <hi>Woe unto them that decree un<g ref="char:EOLhyphen"/>righteous decrees, and that write grievouſneſſe which they have preſcribed, to turn aſide the needy from judgement, and to take away the right of the poor of my people, that Widdowes may be their prey, and that they may rob the fa<g ref="char:EOLhyphen"/>therleſſe.</hi> Now who were they that enacted ſuch inju<g ref="char:EOLhyphen"/>rious and cruel decrees but great and rich men? their wicked Rulers and Judges whoſe will (indeed luſt) was their law; to this purpoſe is that in the prophecie of the Prophet <hi>Amos, Chap. 4. v.</hi> 1, <hi>2. Hear this word ye Kine of Baſhan which oppreſſe the poor, and cruſh the needy, &amp;c.</hi> the charge is againſt the Rulers and Gover<g ref="char:EOLhyphen"/>nours: ſo, <hi>James 2.6. Do not rich men oppreſſe you</hi>
+               <pb n="18" facs="tcp:170602:14"/> (ſaith the Apoſtle) <hi>and draw you before the judgement-ſeats?</hi> Rich men are many times great oppreſſors, they have power aſwell as will, whereas the poor have not power to their will. Thus you ſee they are defiling.</p>
+            <p n="3">3 They are periſhing; by this Argument our bleſ<g ref="char:EOLhyphen"/>ſed Lord and Saviour in my Text de-cries the trea<g ref="char:EOLhyphen"/>ſuring up of earthly treaſures, as our chief treaſure; moth and ruſt may and will corrupt them, or thieves may rob us of them: Indeed earthly treaſures are like treaſures of ſnow that melt betwixt our fingers, the world it ſelf is compared to the Moon, <hi>Rev</hi> 12.1. <hi>There appeared a great wonder in heaven, a woman cloathed with the Sun,</hi> that is, the Church cloathed with Chriſt, <hi>ha<g ref="char:EOLhyphen"/>ving the Moon under her feet,</hi> that is, the World, accord<g ref="char:EOLhyphen"/>ing to the ſtream of the beſt Expoſitors, who make the Moon here an Embleme of the World, and not unfit<g ref="char:EOLhyphen"/>ly. The Moon you know is ſubject to many changes, 'tis ſometimes an horned, ſometimes an half, and ſome<g ref="char:EOLhyphen"/>times a full Moon; ſo the world is a ſtage of viciſſi<g ref="char:EOLhyphen"/>tudes, <hi>conſtans in levitate ſuâ,</hi> conſtant onely in its in<g ref="char:EOLhyphen"/>conſtancy. <hi>The faſhion of this world paſſeth away,</hi> 1 Cor. 7.31. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the word ſignifieth a meer Mathema<g ref="char:EOLhyphen"/>tical Figure without ſubſtance, ſo ſome; or ſuch a fa<g ref="char:EOLhyphen"/>ſhion as is in a Comedy or Stage-play, where all things are but for a while to pleaſe the eye, ſo others; <hi>the fa<g ref="char:EOLhyphen"/>ſhion of this world paſſeth away:</hi> To this purpoſe is that of the Apoſtle, 1 <hi>John</hi> 2.17. <hi>The world paſſeth away:</hi> and as for the enjoyments of this world, they are com<g ref="char:EOLhyphen"/>pared to a flock of birds; <hi>Prov. 23.5. Riches make them<g ref="char:EOLhyphen"/>ſelves wings, and fly away like an Eagle.</hi> They have great Eagles wings to fly from us (ſaith one of the Fathers) but to follow after us, <hi>ne paſſerinas quidem alas,</hi> not ſo much as little Sparrows wings. Many once as rich
+<pb n="19" facs="tcp:170602:14"/> as any here have found it impoſſible to pinion the wings of their riches.</p>
+            <p n="4">4 They are plaguing; if unjuſtly acquired, or un<g ref="char:EOLhyphen"/>duly deteined; ſo <hi>Diodate</hi> expounds that Text, <hi>James 5.3. Ye have heaped treaſure together for the laſt dayes.</hi> That is, whereas you thought to lay up treaſures for time to come, you ſhall in effect finde, that you have laid up Gods Wrath. O! how many in treaſuring up wealth do treaſure up the wrath and vengeance of God alſo. How dearly earned doth <hi>Judas</hi> count his thirty pieces now? and thus you have the firſt ground or reaſon why we ſhould not treaſure up earthly treaſures as our chief treaſure.</p>
+            <p>The ſecond is taken from the nature of the ſin of treaſuring up earthly treaſures, as our chief treaſure, it is ſuch a ſin as the Apoſtle would not have to be na<g ref="char:EOLhyphen"/>med amongſt Chriſtians without extream deteſtation, <hi>Epheſ. 5.3. Fornication and all uncleanneſſe or covetouſ<g ref="char:EOLhyphen"/>neſſe, let it not be once named amongſt you, as becometh Saints.</hi> This ſin is called Idolatry, <hi>Coloſſ.</hi> 3.5. <hi>Mortifie your members which are upon the earth: fornication, un<g ref="char:EOLhyphen"/>cleanneſſe, and covetouſneſſe, which is Idolatry.</hi> And the ſoul that is guilty of this ſin is expreſly called an Idola<g ref="char:EOLhyphen"/>ter, <hi>Epheſ.</hi> 5.5. <hi>This ye know, that no whoremonger nor unclean perſon, nor covetous man, who is an Idolater, hath any inheritance in the Kingdome of Chriſt, and of God.</hi> Holy <hi>David</hi> ſaith of the Heathen, <hi>Pſal.</hi> 135.15. <hi>The Idols of the Heathen are ſilver and gold:</hi> and we may ſay of many (too too many) profeſſed Chriſtians, ſil<g ref="char:EOLhyphen"/>ver and gold are their Idols. But why is he that makes earthly treaſures his chief treaſure an Idolater? I an<g ref="char:EOLhyphen"/>ſwer, Becauſe</p>
+            <p n="1">1 They have his heart; now that which the heart
+<pb n="20" facs="tcp:170602:15"/> and affections run out unto as the <hi>ſummum bonum,</hi> 'its chief good, that is unto that ſoul inſtead of God.</p>
+            <p n="2">2 They have his truſt: what <hi>Jobs</hi> ſoul abhorred to do, that he doth, <hi>Job 31.24. If I have made gold my hope, or have ſaid to the fine gold, thou art my confidence,</hi> implying that he did not make gold his hope; not did he ſay to the fine gold, thou art my cofidence. <hi>Iob</hi> truſted in God alone; and made not an Idol of his riches, by truſting in them. But this that ſoul doth, that makes earthly treaſures his chief treaſure. He tru<g ref="char:EOLhyphen"/>ſteth in uncertain riches, contrary to that charge, 1 <hi>Tim.</hi> 6.17. <hi>Charge them that are rich in this world, that they truſt not in uncertain riches.</hi>
+            </p>
+            <p n="3">3 They have his ſervice: Now that which one wor<g ref="char:EOLhyphen"/>ſhippeth and ſerveth is his God. Our bleſſed Saviour ſaith peremptorily, that no ſervant can ſerve two ma<g ref="char:EOLhyphen"/>ſters, <hi>Luke</hi> 16.13. <hi>As God and the Devil, and God and the fleſh: ſo God and the world are two contrary maſters:</hi> hence our Saviour ſaith expreſly in the ſame verſe, <hi>Ye cannot ſerve God &amp; Mammon.</hi> 'Tis notable, he doth not ſay, ye cannot have God &amp; <hi>Mammon,</hi> but <hi>ye cannot ſerve God &amp; Mammon;</hi> he that is Gods Servant cannot be his golds ſervant alſo. If we be not maſters of our earthly treaſures, we cannot be the true heaven-born Servants of God. What <hi>Seneca</hi> ſaid of affections, &amp; we ſay of fire &amp; water, 'tis true of earthly treaſures, They are good ſer<g ref="char:EOLhyphen"/>vants but bad maſters. Now (beloved) what ſin is more odious then Idolatry: Can you name a more God-pro<g ref="char:EOLhyphen"/>voking and ſoul-deſtroying ſin then Idolatry. The ſoul of God abhors it, and 'tis worthy your obſervati<g ref="char:EOLhyphen"/>on, the ſin of Idolatry and this of Covetouſneſſe (un<g ref="char:EOLhyphen"/>der hand) which is called Idolatry) are both ſtigmatized with the infamy of whoredome and adultery againſt
+<pb n="21" facs="tcp:170602:15"/> God. <hi>Iſa.</hi> 57.8. <hi>Thou haſt diſcovered thy ſelf to another then me, thou haſt enlarged thy bed, and made a covenant with them, thou lovedſt their bed when thou ſaweſt it:</hi> So <hi>Ezek.</hi> 26.25. <hi>Thou haſt opened thy feet to every one that paſſed by, and multiplied thy whoredomes:</hi> that is, thou haſt committed Idolatry with all the falſe gods of the Heathen round about. And that inordinate love of the world is a ſpiritual adultery, you may ſee, <hi>Iames</hi> 4.4. <hi>Ye adulterers and adultereſſes know ye not the friendſhip of the world is enmity with God:</hi> whoſoever therefore will be a friend of the world is the enemy of God. In a word, that ſoul that layes out that love and zeal and confidence, or truſt, which is due to God upon his earthly treaſures, is a ſpiritual Idolater and an Adulter<g ref="char:EOLhyphen"/>er. O! what a God-provoking and ſoul-deſtroying ſin muſt this be? Thus you have the point confirmed. I ſee I muſt be very ſhort in the improvement of it by way of Uſe and Application.</p>
+            <p>Let me exhort you in the fear of the Lord not to make worldly wealth, or any earthly thing whatſoever your chief treaſure. O! do not caſt your eyes and ſet your hearts upon that which is not, <hi>Prov.</hi> 23.5. For ſhame (my beloved) be not like the dog in the fable, catching at the ſhadow, and ſo loſe ſubſtance and all: Be not like the cock upon the dunghil, eſteeming the barly corn of earthly treaſures before heavenly treaſure.</p>
+            <p>It may be you'l ſay, we hope we do not, but (belo<g ref="char:EOLhyphen"/>ved) I am afraid that many of you do. Are you willing to come to the touchſtone, and to be weighed in the ballance of the Sanctuary?</p>
+            <p>I ſhall preſent you with four characters or diſcove<g ref="char:EOLhyphen"/>ries onely of a perſons making earthly treaſures his chief treaſure; and ſo proceed to the 20 <hi>verſe.</hi> The firſt is,</p>
+            <p n="1">
+               <pb n="22" facs="tcp:170602:16"/>1 A low ground-ebbe of affections, deſires, delights, thoughts and endeavours, after heavenly treaſures. This argues that ſomething on this ſide heaven is your chief treaſure. Do you obſerve that rule laid down by our Saviour, <hi>Matth.</hi> 6.33. <hi>Seek ye firſt the Kingdome of God and his righteouſneſſe.</hi> Good Lord! how few of the many here before the Lord do obſerve that rule? This was prophane <hi>Eſau</hi> his ſin; give him a morſel of meat or a meſſe of pottage, and as for the Birthright take it who will, <hi>Heb.</hi> 12.16. and this was the Gergeſenes ſin, they had rather Satan ſhould reſide and play <hi>Rex</hi> in their own ſouls then in their ſwine; and therefore up<g ref="char:EOLhyphen"/>on the loſſe of their ſwine they beſeech our Saviour to depart out of their Coaſts, <hi>Matth.</hi> 8. <hi>ult.</hi>
+            </p>
+            <p n="2">2 Hard-heartedneſſe and cloſe-fiſtedneſſe towards the needy or neceſſitous: Did not thy earthly treaſures lie neerer thy heart then they ſhould, thy heart would be more merciful, and thy hand more bountiful, and o<g ref="char:EOLhyphen"/>pen unto a due relief of ſuch as want neceſſaries, when as thou thy ſelf haſt both delightfuls and ſuperfluities. When our bleſſed Lord bad that man ſell what he had and give to the poor (but the man went away ſorrow<g ref="char:EOLhyphen"/>ful) does it not argue and infer, that his earthly trea<g ref="char:EOLhyphen"/>ſures had too much intereſt in his heart and affections?</p>
+            <p n="3">3 Want of contentment, which indeed lies not in the things a man enjoyes, but in the mind that values them. <hi>Natura paucis contenta, libido nullis,</hi> Nature is content with a little, and grace is content with leſſe, but luſt is inſatiable, content with nothing: 'tis certain, earthly treaſures in themſelves yield no ſound content<g ref="char:EOLhyphen"/>ment and ſatisfaction to the owner. <hi>Haman</hi> was a man that ſucked at the fair and full breaſts of the world, he was one of the worlds darlings (as they uſually ſay)
+<pb n="23" facs="tcp:170602:16"/> and yet was he not content therewith, <hi>Eſter</hi> 5.13. <hi>All this availeth me nothing, ſo long as I ſee Mordecai the Jew ſitting at the Kings gate.</hi> There is ever ſome<g ref="char:EOLhyphen"/>thing or other that gives an unſavory verdure unto the worlds ſweeteſt morſels, and make their ſweets but bitter-ſweets; but godlineſſe with contentment is great gain, 1 <hi>Tim.</hi> 6.6. Now can you truly ſay, you are content with what you have, and you can heartily bleſſe God for it?</p>
+            <p n="4">4 Over-grieving the loſſe of any creature-comfort: the leſſe intereſt the things of this world have in a mans heart and affections, the leſſe grief will there be at that mans parting with any thing in the world. But when there's a-great deal of grief at parting, this ar<g ref="char:EOLhyphen"/>gues ſuch a creature-comfort lay too neer the heart, whilſt enjoyed, <hi>Hoſea</hi> 7.14. <hi>They houled upon their beds for corn and wine.</hi> The Lord help you to judge righteous judgment, of the ſtate and genius, diſpoſiti<g ref="char:EOLhyphen"/>on, or temper of your own ſouls, whether you be, or be not, ſuch as do make earthly treaſures your chief treaſure.</p>
+            <p>I have done with the 19, and proceed to the 20 verſ. <hi>But lay up for your ſelves treaſures in heaven.</hi>
+            </p>
+            <p>This Rule or Precept (call it what you will) you ſee is affirmative, ſhewing what treaſure we ought to trea<g ref="char:EOLhyphen"/>ſure up for our ſelves, as our chief treaſure, <hi>videlicet,</hi> treaſures in heaven. This Rule is,
+<list>
+                  <item>1 Propounded.</item>
+                  <item>2 Preſſed.</item>
+               </list>
+            </p>
+            <p>Conſider it as propounded, and ſo there are four terms conſiderable (as you heard before)
+<list>
+                  <item>1 An Act, <hi>Lay up,</hi> or <hi>Treaſure up.</hi>
+                  </item>
+                  <item>2 The Object, <hi>Treaſures.</hi>
+                  </item>
+                  <pb n="24" facs="tcp:170602:17"/>
+                  <item>3 The Place, <hi>In heaven.</hi>
+                  </item>
+                  <item>4 The End, <hi>For your ſelves.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Some variety there is amongſt Interpreters about the interpretation of the object, what this treaſure is, which Chriſtians may and ought to treaſure up for themſelves.</p>
+            <p>I ſhall not detain you with a prolix examination and confutation of the Expoſition of the Church of <hi>Rome,</hi> who make the overplus of Chriſts merits and of the merits of Saints and Martyrs to be the true treaſure of the Church, which is (ſay they) in the Popes cuſtody. This deluſion hath kept the Popes treaſury full of earthly treaſures, and his Kitchin warm.</p>
+            <p>Nor muſt I detain you with a prolix confutation of the Jeſuit <hi>Maldonat</hi> his inference from our Saviours command; namely, that the creature hath freedome of will and power to treaſure up for himſelf treaſures in heaven. And why? But becauſe Chriſt command<g ref="char:EOLhyphen"/>eth us ſo to do. <hi>Nemo praeter Haereticos, tam eſt inſanus ut Deum nobis praecipere dicat, quae facere non poſſumus.</hi> None but Hereticks (ſaith he) will be ſo mad, as to ſay that God commandeth us to do what we are not able to do. But (beloved) commands argue not power and free-will in man to do what is commanded; they in<g ref="char:EOLhyphen"/>fer duty, but not ability, that it is our duty to do ſo and ſo, but not that we are able of our ſelves to do ſo and ſo, nor doth <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> impotency, or diſability to perform take away Gods authority to command. May not a Creditor juſtly require a juſt debt from a Bankrupt? In ſhort, we are able and too too apt of our ſelves to treaſure up unto our ſelves wrath againſt the day of wrath, but not to treaſure up for our ſelves treaſures in heaven. Yet becauſe we are inſtruments by his grace
+<pb n="25" facs="tcp:170602:17"/> in the uſe of means to treaſure up this treaſure; there<g ref="char:EOLhyphen"/>fore are we commanded to treaſure up for our ſelves treaſures in heaven, as if the work were wholly ours, though God himſelf be the principal efficient cauſe, we but the inſtruments.</p>
+            <p>Well, but you will ſay, what is meant here by treaſures in heaven? <hi>Anſw.</hi>
+            </p>
+            <p n="1">1 Some by treaſures in this place do underſtand almes, comparing this Text with that, 1 <hi>Tim.</hi> 6.17, 18, 19. <hi>Charge them that are rich in this world, that they do good, that they be rich in good works, ready to diſtribute, willing to communicate, laying up in ſtore f<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hemſelves a good foundation againſt the time to come, that they may lay hold on eternal life.</hi>
+            </p>
+            <p n="2">2 Others by treaſures here underſtand Jeſus Chriſt.</p>
+            <p n="3">3 And others, life eternal, purchaſed for us by Je<g ref="char:EOLhyphen"/>ſus Chriſt.</p>
+            <p>Learned and holy Mr. <hi>Perkins</hi> (now happy in hea<g ref="char:EOLhyphen"/>ven) by treaſures in heaven in this place underſtand<g ref="char:EOLhyphen"/>eth Jeſus Chriſt, who is the true treaſure, in whom all treaſures are hid, <hi>Coll.</hi> 2.3. <hi>in whom</hi> (that is in Chriſt) <hi>are hid all the treaſures of wiſdome and knowledge.</hi> This treaſure is a Chriſtians true riches, ſo called, <hi>Coll.</hi> 1.27. <hi>to whom God would make known what is the riches of the glory of this myſtery among the Gentiles, which is Chriſt in you:</hi> which what? <hi>Anſw.</hi> Which riches is Chriſt in you the hope of glory, Chriſt is the onely ttue treaſure, the onely true riches of every true Chri<g ref="char:EOLhyphen"/>ſtian.</p>
+            <p>Now according to this interpretation of the words, the Obſervation which I will handle, ſhall be this:</p>
+            <pb n="26" facs="tcp:170602:18"/>
+            <p> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſerv. </seg>
+               </label> Chriſtians ought to make Chriſt their chief trea<g ref="char:EOLhyphen"/>ſure.</p>
+            <p>If you ask me the reaſons or grounds of the point, why Chriſtians ſhould make Chriſt their chief treaſure. I anſwer;
+<list>
+                  <item>1 In general.</item>
+                  <item>2 More particularly.</item>
+               </list>
+            </p>
+            <p n="1">1 In general, becauſe Chriſt is the chiefly deſirable treaſure, <hi>Haggai</hi> 2.7. he is ſtiled the deſire of all Na<g ref="char:EOLhyphen"/>tions; <hi>I will ſhake all Nations, and the deſire of all Nations ſhall come.</hi> Some diſpute there is, what is meant by the deſire of all Nations: Some would have us underſtand by the de<gap reason="illegible" resp="#MURP" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> of all Nations,<note place="margin">
+                  <g ref="char:V">Ʋ</g>t venient deſiderati omnium gentium, <hi>Jun.</hi>
+               </note> the people whom God ſhould cull and call out of every Nation, as his deſired ones. Others would have us underſtand by the deſire of all Nations, the deſirable things, the choice treaſure of the Nations, which were to be tendred unto Chriſt at his comming in the fleſh. Thus we read of an obla<g ref="char:EOLhyphen"/>tion of gold, and frankincenſe, and myrrhe, which was made by the wiſe men unto Chriſt, <hi>Matth.</hi> 2.11. <hi>When they had opened their treaſures, they preſented unto him gifts, gold, &amp; frankinſence, &amp; myrrhe:</hi> thus we read <hi>Acts</hi> 4.34, 35. that the Primitive Converts ſold their poſſeſſions, <hi>and brought the prices of the things that were ſold, and laid them down at the Apoſtles feet.</hi> But o<g ref="char:EOLhyphen"/>thers (indeed the moſt) underſtand this Text of the <hi>Meſſias,</hi> the Lord Jeſus Chriſt, <hi>deſideratus omnium gentium,</hi> ſo <hi>Hierome,</hi> the perſon that is deſired of all Nations, and who was that but Jeſus Chriſt? this in<g ref="char:EOLhyphen"/>terpretation is favoured by the Author of the Epiſtle to the <hi>Hebrews,</hi> who quoteth this Text of the Prophet, as you may ſee, <hi>Heb.</hi> 12.26. well then, Chriſt is the deſire of all Nations. 'Tis notable, the word is ab<g ref="char:EOLhyphen"/>ſtract,
+<pb n="27" facs="tcp:170602:18"/> not concrete, he is ſtiled, not the perſon deſired, but the deſire, which implies two things: That he is;
+<list>
+                  <item>1 <hi>Totus deſiderabilis,</hi> altogether deſirable.</item>
+                  <item>2 <hi>Totum deſiderabile,</hi> all that can be deſired.</item>
+               </list>
+            </p>
+            <p n="1">1 The Lord Jeſus Chriſt is altogether deſirable, his perſon is deſireable, his offices are deſireable, his ſervice is deſireable, his yoke eaſie, <hi>Matth.</hi> 11.30. <hi>eaſie in re<g ref="char:EOLhyphen"/>gard of</hi> (to name no other regards) <hi>the yoke of ſin and Satan: Vita vitioſa gravior,</hi> a vicious life is more la<g ref="char:EOLhyphen"/>borious and burthenſome then a vertuous. A man can<g ref="char:EOLhyphen"/>not ſerve a better Maſter then Chriſt, nor a worſe then Sin or Satan; this is the firſt, he is altogether deſi<g ref="char:EOLhyphen"/>rable.</p>
+            <p n="2">2 The Lord Jeſus Chriſt he is <hi>totum deſiderabile,</hi> all that can be deſired, which is not predicable of any or all the treaſures of this world, <hi>Prov,</hi> 3.15. <hi>All the things thou canſt deſire are not to be compared unto this treaſure:</hi> when <hi>Paul</hi> had reckoned up all his priviledges and pre<g ref="char:EOLhyphen"/>rogatives, and laid them in one ſcale, and this treaſure in the other, this treaſure over-weighed his all beſides, as you may read, <hi>Phil.</hi> 3.8. <hi>I count all things but loſſe for the excellencie of the knowledge of Chriſt Jeſus my Lord, for whom I have ſuffered the loſſe of all things, and do count them but dung that I may win Christ.</hi> What is it that you account deſervedly attractive of your love?</p>
+            <p n="1">1 Is it beauty? Alas! what are the brighteſt beau<g ref="char:EOLhyphen"/>ties of nature compared unto that beauty which is in Jeſus Chriſt? Surely they are but a dim ſhadow of his beauty, <hi>Pſal.</hi> 45.2. <hi>He is fairer then the children of men:</hi> when the Church had limmed out his beauty and amiableneſſe from top to toe, ſhe is forced to break
+<pb n="28" facs="tcp:170602:19"/> off with a general Elogy, <hi>Cant.</hi> 5.16. <hi>He is altoge<g ref="char:EOLhyphen"/>ther lovely;</hi> all the beauty of God the Father is put forth in Chriſt, who is the reſplendency of the Fathers glory. The light of the Sun in the air, what is it but the accidental reflexion of the Suns beames? And what is Jeſus Chriſt, this precious treaſure, but the ſubſtantial reflexion of the Fathers light, beauty, and glory? Oh! how are the eyes of Angels taken up with beholding the beauty, the amiableneſſe and love<g ref="char:EOLhyphen"/>lineſſe of this treaſure.</p>
+            <p n="2">2 Is it gain or profit which you account deſervedly attractive of your love? why, the merchandiſe of this treaſure is better then the merchandiſe of ſilver, and the gain thereof then fine gold, it is more precious then rubies, <hi>Prov.</hi> 3.14, 15. A man may gain much of the world, and yet loſe his ſoul; yea, a man may loſe his ſoul in gaining the world, <hi>Matth.</hi> 16.26. Thus <hi>Demas</hi> when once he imbraced the world, then farewel <hi>Paul,</hi> and farewel ſoul too, 2 <hi>Tim.</hi> 4.10. <hi>Demas hath forſa<g ref="char:EOLhyphen"/>ken me, having loved this preſent world.</hi> But he that gaineth this treaſure cannot poſſibly loſe his ſoul, the very name of this treaſure ſoundeth ſalvation, <hi>Matth.</hi> 1.21. <hi>Thou ſhalt call his name Jeſus, for he ſhall ſave his people from their ſins.</hi> In a word, that ſoul that gets a propriety to, an intereſt in this treaſure, gains more then a <hi>Naboths</hi> Vineyard, and that without an <hi>Ahabs</hi> Curſe, a better reward then <hi>Naamans</hi> without a <hi>Gehezies</hi> lepro<g ref="char:EOLhyphen"/>ſie. If ever you will prove your ſelves wiſe merchants, beſure to make choice of this treaſure for your chief treaſure.</p>
+            <p n="3">3 Is it honour, which you account deſervedly at<g ref="char:EOLhyphen"/>tractive of your love? Alas! worldly honour and dignity, how airie and ſlippery is it? <hi>Haman</hi> (we read)
+<pb n="29" facs="tcp:170602:19"/> was in a little time both highly favoured at Court, and exalted alſo on the Gallowes. And <hi>Nebuchadnezzar</hi> (we finde) glorying in his <hi>Babel</hi> (as it were) to day, and caſt out of his Kingdome to morrow; deſervedly may worldly honour be chronicled for a lye; <hi>Pſal.</hi> 62.9. <hi>Men oſ high degree are a lie:</hi> but now all that have ti<g ref="char:EOLhyphen"/>tle to this treaſure are Kings and Prieſts unto God, <hi>Revel.</hi> 1.6. Indeed on earth they are but warring Kings, but in heaven they ſhall be triumphing Kings, crowned Kings, <hi>Revel.</hi> 4.4. heirs they are of the ever<g ref="char:EOLhyphen"/>laſting Kingdome of our Lord and Saviour Ieſus Chriſt, a Kingdome which cannot be moved. Thus you ſee in general, that Ieſus Chriſt is the chiefly deſi<g ref="char:EOLhyphen"/>rable treaſure.</p>
+            <p n="2">2 More particularly, be pleaſed to conſider with me that Ieſus Chriſt is,
+<list>
+                  <item>1 A ſoul-beautifying treaſure.</item>
+                  <item>2 A ſoul ſatisfying treaſure.</item>
+                  <item>3 A durable everlaſting treaſure.</item>
+               </list>
+            </p>
+            <p n="1">1 This treaſure is a ſoul-beautifying treaſure, the ſoul of man by nature is of all other things in the world, one of the vileſt, moſt polluted and loathſome thing in the ſight of God, but this treaſure doth ſin<g ref="char:EOLhyphen"/>gularly beautifie the ſoul that hath it, <hi>Cant.</hi> 4.7. <hi>Thou art all fair, my Love,</hi> (ſaith Chriſt to his Church) <hi>there is no ſpot in thee:</hi> to this purpoſe is that, <hi>Cant.</hi> 6.10. Who is ſhe that looketh forth as the morning, fair as the Moon, clear as the Sun? The Church of Chriſt by vertue of her title unto and poſſeſſion of this trea<g ref="char:EOLhyphen"/>ſure is clear as the Sun, in regard of juſtification, and fair as the Moon, in regard of ſanctjfication. Look as when <hi>Jacob</hi> wore <hi>Eſaus</hi> garment, he was as <hi>Eſau</hi> to his father <hi>Iſaac,</hi> and in that relation obteined the bleſſing;
+<pb n="30" facs="tcp:170602:20"/> ſo when a poor ſinner is cloathed with the white robe of the righteouſneſſe of this true treaſure, God the Father looks upon him, as if he had fulfilled all righ<g ref="char:EOLhyphen"/>teouſneſſe.</p>
+            <p n="2">2 This Treaſure is a ſoul-ſatisfying treaſure, he that hath an intereſt in this treaſure, may lay this concluſion firmly in his own ſpirit, That the ſame God that hath given unto him this treaſure, cannot but with him give him all things alſo. Take it in two particulars.</p>
+            <p n="1">1 That ſoul that hath this treaſure, hath in the ſame Charter all things: thus the Apoſtle argues the Chur<g ref="char:EOLhyphen"/>ches title to all things from this very ground, 1 <hi>Cor.</hi> 3.21 22, 23. <hi>All things</hi> (ſaith he) <hi>are yours, whether Paul, or A<g ref="char:EOLhyphen"/>pollo, or Cephas, or the world, or life, or death, or things preſent, or things to come, all are yours;</hi> though not in poſ<g ref="char:EOLhyphen"/>ſeſſion yet in free heritage. And why all yours? becauſe Chriſt is yours, ye are Chriſts, and Chriſts is Gods; <hi>Habet omnia qui habet habentem omnia</hi> (ſaith <hi>Austine</hi>) He hath all things that hath the God of all things.</p>
+            <p n="2">2 That ſoul that hath this treaſure hath all that he hath by a Covenant-right, and not by ſimple donation onely; he hath all by the free-holding of grace; his bread not by common providence onely, but by Co<g ref="char:EOLhyphen"/>venant, <hi>Iſa.</hi> 33.16. <hi>Bread ſhall be given him, his waters ſhall be ſure;</hi> his ſleep not by common providence one<g ref="char:EOLhyphen"/>ly, but by promiſe, <hi>Prov.</hi> 3.24. <hi>When thou lieſt down thou ſhalt not be afraid, yea, thou ſhalt lie down, and thy ſleep ſhall be ſweet.</hi> What ſhall I ſay? the very glean<g ref="char:EOLhyphen"/>ings of this treaſure are more filling and ſatisfying then all the vintage and harveſt of earthly treaſures. Thus you ſee he is a ſoul-ſasisfying treaſure.</p>
+            <p n="3">3 This treaſure is a durable, a laſting, an everlaſting treaſure. Earthly treaſures periſh in the uſe: yea, be<g ref="char:EOLhyphen"/>loved,
+<pb n="31" facs="tcp:170602:20"/> if you have not a title to this treaſure, you will have your portion in this world, which is dreadful to conſider; although God ſhould now fill your bellies with hid treaſures. It is ſtoried of <hi>Gregory,</hi> that when he was advanced to high preferment, he profeſſed, that no Scripture was ever ſo terrible in his ears, as that, <hi>Luke</hi> 6.24. <hi>Woe unto you that are rich, for you have re<g ref="char:EOLhyphen"/>ceived your conſolation;</hi> this Scripture ſounded in his ears, as <hi>Jerome</hi> ſaid, that Scripture did in his, <hi>ſurgite mortui, &amp; venite ad judicium,</hi> ariſe ye dead, and come to judgement. But (beloved) this treaſure, which a Chriſtian ſhould make his choiſe treaſure, will ſtand him inſtead for ever. This is the treaſure <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the hea<g ref="char:EOLhyphen"/>vens that faileth not; <hi>Luke</hi> 12.33. <hi>Where no theef ap<g ref="char:EOLhyphen"/>proacheth, neither moth corrupteth.</hi> This treaſure will be ever ſweet and precious, yea, then beſt, when time ſhall be no more: this is the true treaſure, and (indeed) the onely treaſure, which maketh all the poſſeſſours of it ſolidly and eternally happy. Thus ye have the rea<g ref="char:EOLhyphen"/>ſons, why Chriſtians ought to make Chriſt their chief treaſure. Give me leave now to improve it by way of Uſe and Application. By way of</p>
+            <p n="1">1 Trial or Examination, <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>
+               </label> you have heard what a choice precious treaſure Chriſt is; now let your Con<g ref="char:EOLhyphen"/>ſciences anſwer me, as in the preſence of the Lord, have you made choice of Chriſt for your chief trea<g ref="char:EOLhyphen"/>ſure? It may be, you will ſay, How ſhall we know whether we have done ſo, yea or not? I anſwer, you may know it,</p>
+            <p n="1">1 By your diſtinct and deep apprehenſions of your perſonal want, and of the real worth of this trea<g ref="char:EOLhyphen"/>ſure.</p>
+            <p n="2">2 By your high appretiations of this treaſure, above all earthly treaſures ſoever.</p>
+            <p n="3">
+               <pb n="32" facs="tcp:170602:21"/>By the Bias and tendencie of your affections to<g ref="char:EOLhyphen"/>wards this treaſure.</p>
+            <p n="4">4 By the laboriouſneſſe of your endeavours to get this treaſure.</p>
+            <p n="1">1 By your diſtinct and deep apprehenſions of your perſonal want, and of the real worth of this treaſure. By your diſtinct apprehenſions, (I ſay)</p>
+            <p n="1">1 Of your perſonal want of this treaſure; hath the Lord throughly convinced you, that without a title to this treaſure, you are undone for ever? And doth this make you cry out with <hi>Rachel,</hi> in another caſe, <hi>Give me children</hi> (ſaith ſhe) <hi>or elſe I die;</hi> ſo doth thy ſoul un<g ref="char:EOLhyphen"/>feignedly and feelingly ſay, Lord, give me Chriſt, the true treaſure, or elſe I ſhall die, and be damned eternal<g ref="char:EOLhyphen"/>ly. Oh! how many here before the Lord never yet ſaw their need and want of this treaſure, who yet pre<g ref="char:EOLhyphen"/>tend that Chriſt is their treaſure?</p>
+            <p n="2">2 Of the real worth and excellency of this treaſure hath the Lord convinced thee, that this treaſure doth not onely make a man richer, but it makes a man bet<g ref="char:EOLhyphen"/>ter? earthly treaſures do make a man richer, but they ſeldome or never make a man better; nay, they many times make a man worſe, but this treaſure, (the Lord hath let thee ſee) will make thee better, it will enlighten thy mind, it will purifie thy heart, it will purge thy conſcience, 'twill every way beautifie thy precious foul, what ſay your ſoules to this.</p>
+            <p n="2">2 By your high appretiations of this treaſure above all earthly treaſures whatſoever: clear apprehenſions of the ſurpaſſing worth &amp; tranſcendent excellency of this treaſure will beget high appretiations of it; we ſee it in <hi>Paul, Phil</hi> 3.8. <hi>I count all things</hi> (ſaith he) <hi>but dung,</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, dogs meat) <hi>that I may win Chriſt, and get
+<pb n="33" facs="tcp:170602:21"/> home to him.</hi> 'T was a brave ſpeech of <hi>Luther,</hi>
+               <note place="margin">Melch. R. D. in vita <hi>Luth.</hi>
+               </note> when great gifts were proffered him, if he would warp, and tune his fiddle to the Popes Baſe, <hi>valdè proteſtatus ſum me nolle ſic ſatiari.</hi> I deeply proteſted (ſaith he) that God ſhould not put me off with ſuch poor things: re<g ref="char:EOLhyphen"/>ſolved he was, not to be ſatisfied with any thing on this ſide treaſures in heaven. Earthly treaſures were but gay nothings in his eye, compared with this choice treaſure. It is reported, that he ſhould profeſſe, that he was never ſo much as tempted by Satan to this ſin of dry drunkenneſſe, covetouſneſſe. Indeed the Pope at<g ref="char:EOLhyphen"/>tempted to win him unto his faction by money, but the anſwer which his Agents returned, was, <hi>Germana haec beſtia non curat aurum,</hi> that the German beaſt cared not for gold. And as he was famous for his contempt of the world, ſo was he likewiſe for his prizing of Chriſt and the Goſpel. <hi>Malim praeſente Chriſto eſſe in inferno, quàm abſente eo in coelo.</hi> I had rather (ſaith he) be in hell with Chriſt then in heaven without him; what ſay your conſciences to this? have ye high ap<g ref="char:EOLhyphen"/>pretiations of this treaſure above all earthly trea<g ref="char:EOLhyphen"/>ſures.</p>
+            <p n="3">3 By the Byas and tendency of your affections to<g ref="char:EOLhyphen"/>wards this treaſure, high appretiations of this treaſure will beget ſtrong affections unto it, and after it, <hi>Cant.</hi> 3.6. The Church is compared to pillars of ſmoak, aſ<g ref="char:EOLhyphen"/>cending, <hi>though ſhe be black as ſmoak, in regard of infirmi<g ref="char:EOLhyphen"/>ties, yet hath ſhe a principle within her, that carries her upwards.</hi> And how the Byas of the affections of Gods people in the Prophet <hi>Iſaiahs</hi> time was ſet, you may read, <hi>Iſa.</hi> 26.8, 9. <hi>The deſire of our ſouls is to thy Name, and to the remembrance of thee. With my ſoul have I de<g ref="char:EOLhyphen"/>ſired thee in the night, yea, with my ſpirit within me will
+<pb n="34" facs="tcp:170602:22"/> I ſeek thee early.</hi> Their deſires were alwayes breathi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g out and flaming up towards this treaſure. Now can you ſay in the witneſſe of your conſciences, that your affections (the pulſes of your ſouls) do thus work and beat towards Chriſt? does your hearts ſay with <hi>David Pſal.</hi> 73.25. <hi>Whom have I in heaven but thee, and there is none upon earth that I deſire beſides thee?</hi>
+            </p>
+            <p n="4">4 By the laboriouſneſſe of your endeavours to get this treaſure; look, as clear apprehenſions will beget high appretiations, and high appretiations will beget ſtrong affections, ſo ſtrong affections will beget ſtrong endeavours. No ſooner were the bowels of the Church throughly affected, and deeply moved for her beloved, but ſhe beſtirred her ſelf to finde him, whom her ſoul loved, <hi>Cant.</hi> 5.5, 6, <hi>&amp;c.</hi> Although ſhe meets not with any incouragements, but many and great diſcourage<g ref="char:EOLhyphen"/>ments, yet will ſhe not be beaten off from ſeeking of him every where. Thus in that Text even now quo<g ref="char:EOLhyphen"/>ted, <hi>Iſa.</hi> 26.9. we read not onely that the affections of Gods people were carried towards him; but alſo that their enquiries and endeavours were after him; <hi>With my ſoul have I deſired thee in the night,</hi> and what fol<g ref="char:EOLhyphen"/>loweth? <hi>with my ſpirit within me will I ſeek thee early.</hi> Beloved, ſome velleities, imperfect wiſhings &amp; would<g ref="char:EOLhyphen"/>ings you may have for this treaſure, and yet live and die treaſureleſſe, Chriſtleſſe. Now, what ſay your ſouls to this? are you willing to be at any pains, at any coſt, ſo you may gain this treaſure? And ſo much by way of Trial or Examination.</p>
+            <p n="2">2 By way of Exhortation let me exhort you in the fear of the Lord to make Chriſt your chief treaſure: If you have this treaſure, you are not poor, for you are heirs of the Kingdome, which God hath promiſed
+<pb n="35" facs="tcp:170602:22"/> unto them that love him, <hi>James</hi> 2.5. If you have not a title to this treaſure, you are not rich, the <hi>Laodiceans</hi> were a rich people, yet are they ſaid to be poor, <hi>Revel.</hi> 3.17. <hi>thou art wretched, and miſerable, and poor, and blinde, and naked:</hi> though they were rich in worldly treaſures, yet were they poor God-ward and Heaven-ward, becauſe they wanted this heavenly treaſure, Je<g ref="char:EOLhyphen"/>ſus Chriſt. Oh! therefore let me beſeech you to im<g ref="char:EOLhyphen"/>prove your all this way, namely, to get this treaſure, you will ſay, what muſt we do? <hi>Anſw.</hi>
+            </p>
+            <p n="1">1 You muſt read and hear the Word of God, which is compared unto a treaſure, <hi>Matth.</hi> 13.44. the Word of God openeth unto us the ineſtimable value of this heavenly treaſure. 'Tis the means that God hath or<g ref="char:EOLhyphen"/>dained to bring us unto Chriſt, the true treaſure, in whom are hid all the treaſures of wiſdome and know<g ref="char:EOLhyphen"/>ledge. Take heed that you undervalue not the truths of Chriſt, becauſe brought unto you in an earthen veſſel: Remember what the Apoſtle ſaith, 2 <hi>Cor.</hi> 4.7. <hi>we have this treaſure in earthen veſſels.</hi> O! let not the vileneſſe, the weakneſſe, or meanneſſe of the veſſel pre<g ref="char:EOLhyphen"/>judice you againſt the preciouſneſſe and choiceneſſe of the treaſure that is in it.</p>
+            <p n="2">2 You muſt believe the Word which you read and hear, you muſt mix it with faith, or your reading and hearing will not profit you, <hi>Heb.</hi> 4.2.<note place="margin">Audientes corporis ſenſu, non audiunt cordis aſ<g ref="char:EOLhyphen"/>ſenſu, <hi>Aug.</hi>
+               </note> 
+               <hi>The Word preach<g ref="char:EOLhyphen"/>ed did not profit them, not being mixed with faith in them that heard it.</hi>
+            </p>
+            <p n="3">3 You muſt treaſure up divine truths in your memo<g ref="char:EOLhyphen"/>ry, which although it be one of the britleſt parts, yet is it one of the richeſt cabinets and treaſuries in the ſoul of man, and therefore too good to keep lumber and rubbiſh in, 'Tis a treaſury for the richeſt and moſt pre<g ref="char:EOLhyphen"/>cious
+<pb n="36" facs="tcp:170602:23"/> Jewels, to this uſe did <hi>Mary</hi> put her memory, <hi>Luke</hi> 2.19. <hi>Mary kept all theſe things, and pondered them in her heart.</hi> O! that Chriſtians would put theirs un<g ref="char:EOLhyphen"/>to the like uſe.</p>
+            <p n="4">4 You muſt believe in Jeſus Chriſt with all your heart, you muſt receive this treaſure upon his own terms.</p>
+            <p n="5">5 You muſt frequent the Lords Table, where this treaſure is freely offered by God the Father unto every believing communicant.</p>
+            <p n="6">6 You muſt pray in faith, and with an holy ferven<g ref="char:EOLhyphen"/>cy for this treaſure.</p>
+            <p>But theſe means have been (I preſume) frequently inculcated upon you; and therefore I wave any further diſcourſe of them.</p>
+            <p>Two things I muſt commend unto you from the Lord, as ever you would have Jeſus Chriſt to be your chief treaſure: namely,
+<list>
+                  <item>1 That you would forſake all your ſins.</item>
+                  <item>2 That you would forego ſome part of your earth<g ref="char:EOLhyphen"/>ly treaſures.</item>
+               </list>
+            </p>
+            <p n="1">1 That you would forſake all your ſins. Thus did that wiſe merchant in the Goſpel, when he had found the true treaſure, the precious pearl, he went and ſold all that he had, and bought it, now what had he or we to ſell, nothing that is properly our own, but our ſins; all things that we have are Gods already, unleſſe it be our ſins, and are your ſins worth the keeping? do you think you cannot live comfortably, and die bleſſedly without ſuch or ſuch a luſt? why ſhould you think ſo? what think you of the Angels and glorified ſouls in heaven, they live without ſin, and are they not bleſſed? yea, are they not therefore bleſſed, becauſe without
+<pb n="37" facs="tcp:170602:23"/> ſin? Conſider with me I beſeech you.</p>
+            <list>
+               <item>1 Sins unreaſonableneſſe.</item>
+               <item>2 Sins undeſireableneſſe in it ſelf.</item>
+            </list>
+            <p n="1">1 The unreaſonableneſſe of Sin, there's all the rea<g ref="char:EOLhyphen"/>ſon in the world that we ſhould ſerve God, but no reaſon that we ſhould ſin againſt God: Sin is folly and darkneſſe, and it tends unto and ends in utter dark<g ref="char:EOLhyphen"/>neſſe; when we perſwade you to part with ſin, we perſwade you to part with that, which (if not parted with) will incur and binde that direful and dreadful ſen<g ref="char:EOLhyphen"/>tence upon your ſouls and bodies unto all eternity, <hi>Matth.</hi> 7.23. <hi>Depart from me ye that work iniquity.</hi> We petſwade you to part with that which will be the bane, the poiſon, the ruine of your precious ſouls.</p>
+            <p n="2">2 The undeſireableneſſe of ſin in its ſelf; alas! you ſee the bait, but you ſee not the hook that is under it, the venomous, poiſonous ſting of ſin, is but honied over; you feel the pleaſures of ſin, but believe not the pains after and for ſin, becauſe you feel them not; were not the horrour of ſin diſguiſed, your ſouls would cry out in ſober ſadneſſe, Oh I have no pleaſure in ſuch an heart-iniquity or way of wickedneſſe? now I ſee the fruit of ſin is ſhame, the wages of ſin is eternal death, ſeparation of ſoul and body from God for ever. There<g ref="char:EOLhyphen"/>fore let me again beſeech you, as you would have Chriſt for your treaſure, forſake your ſins.</p>
+            <p n="1">1 Univerſally fell all that you have for this treaſure, be willing to part with all your ſins, deal not by your ſins as <hi>Ananias</hi> did by his goods, who retained a part to or for himſelf; but (you know) how heavy the hand of God was upon him for his diſſembling. O! beloved, be not indulgent to any luſt, think it not e<g ref="char:EOLhyphen"/>nough to loath ſome one ſin, although you love and
+<pb n="38" facs="tcp:170602:24"/> live in another; if you will keep ſin in part, you ſhall loſe this precious, this glorious treaſure (and ſo your ſouls) in whole, and forſake your ſins.</p>
+            <p n="2">2 Perpetually, think it not enough to lay aſide your ſins for a time, as you do your cloaths at night when you go to bed, and in the morning put them on again. As the Iſraelites luſted after the fleſh-pots of <hi>Egypt.</hi> But ſhake off (I beſeech you) all your ſins, as <hi>Paul</hi> did the viper, never to reſume them again; take heed of returning with the dog to his vomit, and the ſow to her wallowing in the mire. This is the firſt thing I would commend unto you, forſake all your ſins: And be willing</p>
+            <p n="2">2 To forego ſome part of your earthly treaſures for Chriſt, yea, the whole, if Chriſt call for it, but I ſhall beſpeak a part onely at this time, lay not up earthly treaſures for your ſelves, but lay them out in doing good to the poor members of Ieſus Chriſt; this In<g ref="char:EOLhyphen"/>junction our bleſſed Saviour laid upon that rich man that came unto him and moved a very needful queſti<g ref="char:EOLhyphen"/>on, <hi>Matth.</hi> 19.16. <hi>Good Master, what good thing ſhall I do, that I may have eternal life:</hi> to which Chriſt re<g ref="char:EOLhyphen"/>turns this anſwer, <hi>verſe</hi> 21. <hi>Go and ſell that thou haſt and give to the poor, and thou ſhalt have treaſure in hea<g ref="char:EOLhyphen"/>ven.</hi> How happy ſhould you and I be, if I could per<g ref="char:EOLhyphen"/>ſwade you that are rich men to be rich in good works: You that abound in earthly treaſures to make the bow<g ref="char:EOLhyphen"/>els of the needy your treaſury, <hi>manus pauperum gaza<g ref="char:EOLhyphen"/>phylacium Chriſti,</hi> ſaith one of the Ancients, the poor mans hand is Chriſts treaſury; O that it might be yours. I hope you will not ſay, we have little enough for our ſelves and families, ſhould you ſay, we have too little for our luſts I ſhould rather believe you; in<g ref="char:EOLhyphen"/>deed
+<pb n="39" facs="tcp:170602:24"/> luſt is unſatiable; but you cannot truly ſay, you have little enough for your ſelves; how many are there that have ſcarce covering for their nakedneſſe, when as you (many of you) have cloathing for your comlineſſe and ſtatelineſſe; how many are there that have ſcarce food for their hunger, when as you have plenty and variety of delicious diſhes for your delight and daintineſſe: many of you cannot ſay, you are not rich men, except you be of the judgement of <hi>Marcus Craſſus,</hi> whom <hi>Plutarch</hi> ſpeaks of, who accounted no man rich except he could at his own charges maintain an Army. Profane <hi>Eſau</hi> could ſay, I have enough my brother, I hope you will not prove your ſelves to be worſe then <hi>Eſau:</hi> if you be reſolved to make it your buſineſſe to ſatisfie your luſts, then I muſt tell you that you go about an endleſſe buſineſſe; but I know to whom I ſpeak, I hope not to men rich in worldly goods onely, but to ſome that are rich in faith, and heirs of the Kingdome which God hath promiſed to them that love him. To you I ſpeak, and yet not unto you onely, but unto all here before the Lord, who have enough to ſupply your wants and over: be merciful, be bountiful, be open-hearted, and open-handed, improve your earthly treaſures, as helps to further you in the attainment of the true heavenly treaſure: This counſel I crave leave to back with ſix quickening conſidera<g ref="char:EOLhyphen"/>tions.</p>
+            <p n="1">1 What hath God and Chriſt accounted too dear for <label type="milestone">
+                  <seg type="milestoneunit">Conſid. </seg>1</label> you? the Father accounted not his own ſon too dear for us, the Lord Jeſus accounted not his life too dear for us. Indeed our Saviour himſelf was ſold at a vile, baſe price, namely, for 30 pieces of ſilver, <hi>Matth.</hi> 26.15. <hi>They cove<g ref="char:EOLhyphen"/>nanted with him for</hi> 30 <hi>pieces of ſilver,</hi> which price the
+<pb n="40" facs="tcp:170602:25"/> Prophet <hi>Zachariah</hi> calleth a goodly price, <hi>Zach.</hi> 11.13. but 'tis in ſcorn &amp; diſdain; the price at which he was pri<g ref="char:EOLhyphen"/>zed &amp; ſold was ſordid, but were we bought with ſuch a price? O! no, the Apoſtle <hi>Paul</hi> tells us, that <hi>we are bought with a price,</hi> 1 Cor. 6.20. And the Apoſtle <hi>Peter</hi> tel<g ref="char:EOLhyphen"/>leth us with what price, namely, not <hi>with ſilver and gold, or ſuch corruptible things, but with the precious blood of Chriſt, as of a lamb without blemiſh and without ſpot,</hi> 1 Pet. 1.18, 19. the price of our ſouls was ſo high as that the whole Creation was not able to pay it, we were baſe and vile in our ſelves, yet would not our redeemer buy us with a vile, a baſe price, nay not with vaſt treaſures of the gold of Ophir, or the precious Onyx, but with his own precious blood; Now ſhall we count any thing too dear for Chriſt and his poor members, who counted not his own heart blood too dear for us?</p>
+            <p n="2"> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſid. </seg>2</label> 2 What are the things I preſſe you to lay out for pious uſes, but ſuch as you had from God? woe be unto you, if your earthly treaſures came not out of Gods hand. I will preſume they did, either they were bequeathed unto you by your parents or friends, or you have acquired them by your own induſtry, but who is it that hath made you rich but the Lord? and why hath he given you earthly treaſures? ſurely not that you might hoard them up for your ſelves, but that you might diſtribute and communicate them unto o<g ref="char:EOLhyphen"/>thers; you are but Stewards, not owners or propri<g ref="char:EOLhyphen"/>etaries (in reference to God) of your earthly trea<g ref="char:EOLhyphen"/>ſures. Theſe, aſwell as gifts of minde, as Under<g ref="char:EOLhyphen"/>ſtanding, Wiſdome, and Policy, which God hath en<g ref="char:EOLhyphen"/>dowed any of you with; theſe (I ſay) are talents which the Lord expects you ſhould not lay up in a
+<pb n="41" facs="tcp:170602:25"/> napkin, but trade with and lay out for his ſervice.</p>
+            <p n="3">3 What do I preſſe you to part with, but what the <label type="milestone">
+                  <seg type="milestoneunit">Conſid. </seg>3</label> Lord can return you back again? the Rivers empty themſelves again in the Sea, and the Sea fills all their channels again; and cannot the Lord, the bottomleſſe Ocean, return back whatſoever you lay out upon him and for him? Notable to this purpoſe is that portion of Scripture, <hi>Prov.</hi> 11.24. <hi>There is that ſcattereth, and yet encreaſeth; and there is that with-holdeth more then is meet, but it tendeth to poverty:</hi> this is a Paradox, a my<g ref="char:EOLhyphen"/>ſtery to the world, there be ſome that get by giving, and there be others that loſe by keeping, and not giving; ſo <hi>Iſai<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h</hi> 32.8. <hi>the liberal man deviſeth liberal things,</hi> yea (will a worldling ſay) ſo may he part with all he hath, nay (ſaith the Spirit of God) by liberal things ſhall he ſtand. Well (beloved) this argument which the Apoſtle <hi>Paul,</hi> 2 <hi>Cor.</hi> 9.8. uſeth to induce men to lay out their earthly treaſures for the good of others, I leave with you. <hi>God</hi> (ſaith he) <hi>is able to make all grace abound towards you, that ye alwayes, having all ſufficiency in all things may abound to every good work.</hi>
+            </p>
+            <p n="4">4 What are men content to lay out for their luſts? <label type="milestone">
+                  <seg type="milestoneunit">Conſid. </seg>4</label> how prodigal was that prodigal ſon, of whom it is ſaid, <hi>Luke</hi> 15.13. <hi>that he waſted his ſubſtance with riotous li<g ref="char:EOLhyphen"/>ving, yea, he ſpent all,</hi> verſ. 14. and as prodigal are ma<g ref="char:EOLhyphen"/>ny in our dayes, when the Devil or their luſts call for pounds; when pride, or a dainty tooth, or a drunken appetite, or the fire of a filthy luſt calls, how profuſe and prodigal are many men? Now ſhall hell overbid heaven? Shall wicked men empty their bags and pock<g ref="char:EOLhyphen"/>ets to fill their ſouls with wickedneſſe, and ſhall not we emptie ours for treaſure in heaven? ſo much we finde promiſed, <hi>Matth.</hi> 19.21. <hi>Sell that that thou haſt, and
+<pb n="42" facs="tcp:170602:26"/> give to the poor, and thou ſhalt have treaſure in heaven.</hi> Shall men lay out more for their filthy ſoul-damning luſts, then we do for the ſoul-ſaving treaſure?</p>
+            <p n="5"> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſid. </seg>5</label> 5 What do I preſſe you to lay out for pious uſes, but that which you muſt leave? can you carry your earthly treaſures with you? alas! no death is ſo ſtrict a door-keeper, as that 'twill look, that as you brought no<g ref="char:EOLhyphen"/>thing into the world, ſo you ſhall carrie nothing out, 1 <hi>Tim.</hi> 6.7. Nay, if your earthlie treaſures have been unjuſtlie gotten, or undulie with-held, death will ſtrain out all the ſweet, and leave only the ſowre, and guilt upon your ſouls. I ſay, if unduly with-held, believe it, you may loſe and damn your precious ſouls, by pinch<g ref="char:EOLhyphen"/>ing and ſaving, aſwell as by extorting from others; the wicked which we read of, <hi>Matth.</hi> 25.41, 42, <hi>&amp;c. are ſen<g ref="char:EOLhyphen"/>tenced unto everlaſting fire, prepared for the Devil and his Angels,</hi> not for robbing, but for with-holding bread from the hungrie, not for fleecing or uncloathing, but for not cloathing the backs of the poor members of Jeſus Chriſt. Now whether it be not Chriſtian pru<g ref="char:EOLhyphen"/>dence to lay up in ſtore for your ſelves, a good founda<g ref="char:EOLhyphen"/>tion againſt the time to come, that you may lay hold on eternal life, by doing good, by being rich in good works, ready to diſtribute, and willing to communicate, Judge ye: In ſhort, <hi>the world paſſeth away, and not the world onely, but the luſts thereof alſo,</hi> 1 <hi>John</hi> 2.17. when you come to leave the world, your earthlie treaſures will not reliſh with you, but your ſouls will ſay, I have no pleaſure in them.</p>
+            <p n="6"> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſid. </seg>6</label> 6 If God be honoured, and the poor members of Chriſt relieved with your goods, while you live, God will remember you for good, when you come to die, and time (as to you) ſhall be no more, <hi>Matth.</hi> 25.35,
+<pb n="43" facs="tcp:170602:26"/> 36. Our bleſſed Saviour tells the faithful of all their acts of charity, <hi>I was an hungred, and you gave me meat, I was thirſty, and you gave me drink, naked and you cloathed me, I was ſick, and you viſited me:</hi> at the 37 <hi>verſe,</hi> the righteous anſwer him, as if they had for<g ref="char:EOLhyphen"/>gotten that they had done any ſuch acts. <hi>Lord</hi> (ſay they) <hi>when ſaw we thee an hungred, or thirſty:</hi> but though they ſhould, yet the Lord will not forget their works of mercy; God will be ſure to remember them for good who have done good with their goods, <hi>Revel.</hi> 14.13. <hi>Bleſſed are the dead which die in the Lord, they reſt from their labours, and their works do follow them;</hi> not their works in kinde, but the fruits of their works of mercie and charitie, &amp;c. ſhall follow them. It is ſtori<g ref="char:EOLhyphen"/>ed of one of the Dukes of <hi>Savoy,</hi> that being asked by certain Ambaſſadours, that came to his Court, what hounds he had, for they deſired to ſee them, the next day he ſhewed them a companie of poor people feed<g ref="char:EOLhyphen"/>ing at his Table, and told them, theſe are the hounds with which I hunt after heaven. In a word, it is counted an honour to live like a Prince; but ſure I am, when you come to die, it will be more comfortable to your own ſouls, and more honourable among thoſe that trulie ho<g ref="char:EOLhyphen"/>nour God, and are honourable in his eies: to have the teſtimonie, that you have given like Princes, then that you have lived like Princes. I have but one thing more to do, namelie, to preſent unto you, ſome, ſhall I ſay? indeed manie crying objects of mercie and com<g ref="char:EOLhyphen"/>paſſion; and ſo I ſhall conclude.</p>
+            <floatingText xml:lang="eng" type="report">
+               <body>
+                  <argument>
+                     <p>
+                        <hi>Here (according to cuſtome) a true Repore was read of the great number of poor Children, and other poor people maintained in the ſeveral Hoſpitals by the pious care of the Lord Major, Commonalty, and Citizens of the City of</hi> London, <hi>viz.</hi>
+                     </p>
+                  </argument>
+                  <pb n="44" facs="tcp:170602:27"/>
+                  <p>
+                     <hi>Children now remaining under the Care and Charge of Chriſts Hoſpital (with them lately admitted) which are kept in the houſe, and divers places in</hi> London, <hi>and Sub<g ref="char:EOLhyphen"/>urbs thereof, and at Nurſe in the Countrey, amounting in the whole to the number of</hi> 948.</p>
+                  <p>
+                     <hi>Remaining under cure, at this preſent, at the Charge of S.</hi> Bartholomews <hi>Hoſpital</hi> 361.</p>
+                  <p>
+                     <hi>Remaining under cure, at preſent, upon the Charge of St.</hi> Thomas <hi>Hoſpital</hi> 249.</p>
+                  <p>
+                     <hi>Maintained in Arts and Occupations, and other uſeful and neceſſary works and labours, at the charge of the Ho<g ref="char:EOLhyphen"/>ſpital of</hi> Bridewel, <hi>Apprentices, and other perſons</hi> 130.</p>
+                  <p>
+                     <hi>Maintained in the Hoſpital of</hi> Bethlehem, <hi>with Phy<g ref="char:EOLhyphen"/>ſick, Diet, and other relief,</hi> 51 <hi>diſtracted perſons conſtant<g ref="char:EOLhyphen"/>ly at leaſt, beſides the charge of Servants to look to them, they being moſt unruly, and not able to help themſelves; and the Rents and Revenues of the ſaid Hoſpital being very ſmall, not amounting to two third parts of the yearly charge.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="report">
+               <body>
+                  <argument>
+                     <p>
+                        <hi>THere was alſo read the Report of the Governours of the Corporation for imploying and relieving the Poor of this City of</hi> London, <hi>and Liberties thereof.</hi>
+                     </p>
+                  </argument>
+                  <p>
+                     <hi>The ſaid Corporation do at the preſent maintain and e<g ref="char:EOLhyphen"/>ducate about</hi> 100 <hi>poor Children in Learning, and Arts, whoſe Parents are either dead, or not able to maintain them, aiming (according as ability by the good providence of God ſhall be adminiſtred) at the entertaining of ſome hundreds more; Moreover, there are many hundred of poor people and families imployed by the ſaid Corporation, in the Ma<g ref="char:EOLhyphen"/>nufactures of Spinning Hemp, Flax, and Tow, and Wea<g ref="char:EOLhyphen"/>ving of it into Cloth.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <pb n="45" facs="tcp:170602:27"/>
+            <p>Thus you ſee (Right Honourable, Right Worſhipful, honoured, and beloved) how many Channels there are for your beneficence and liberality to run down in, how many objects of mercie and compaſſion there are in theſe Hoſpitals, theſe houſes of Mercie; and it is well known to your ſelves in whoſe hands the government of theſe Hoſpitals is intruſted. (I hope) I may ſay with<g ref="char:EOLhyphen"/>out flattery, men fearing God, and hating covetouſnes; ſuch as have yearning bowels to refreſh the bowels of the Saints, the houſhold of faith and their ſeed, ſuch as will not abuſe and laviſh out your charity either <hi>pro<g ref="char:EOLhyphen"/>fuſe</hi> or <hi>confuſe,</hi> without meaſure or order. Now my humble and earneſt requeſt unto you is, that before you ſleep you would reſolve between God and your own ſouls to lay out ſome diſcreet proportion of your earth<g ref="char:EOLhyphen"/>ly treaſures for the relief and maintenance of thoſe cry<g ref="char:EOLhyphen"/>ing objects of charity, even now preſented unto you; (I ſay) before you ſleep. I hope manie of you are reſol<g ref="char:EOLhyphen"/>ved to do ſomething, but give me leave to ask ye when? why not now Sirs? Conſider I beſeech you ſix things.</p>
+            <p n="1">1 You may not be long liv'd, you may be taken from your earthlie treaſures, even in the twinkling of an eie, and then 'twill be too late to put your purpoſes and re<g ref="char:EOLhyphen"/>ſolutions in execution: And is it not pity that good ex<g ref="char:EOLhyphen"/>ecutions ſhould not ſucceed good reſolutions? We read in the Goſpel, according to Saint <hi>Luke,</hi> Chap. 12. verſ. 17, 18. of a certain rich man, who wanted room to lay up his treaſure in; but remember what was ſaid unto him, <hi>verſ.</hi> 20. <hi>Fool, this night thy ſoul ſhall be re<g ref="char:EOLhyphen"/>quired of thee, then whoſe ſhall thoſe things be which thou hast provided;</hi> and in the ſame Goſpel, <hi>Luke</hi> the 16. we read of another rich man, who in his life-time had his good things, wherewith he might have done a great
+<pb n="46" facs="tcp:170602:28"/> deal of good, but he neglected the opportunities of life, and therefore is now tormented in hell.</p>
+            <p n="2">2 Suppoſe you ſhould be long-liv'd, you may then ſurvive, out-live your earthlie treaſures. Though you would ſtay with them, yet they may not ſtay with you: though your end be not at hand, yet theirs may: this was <hi>Jobs</hi> caſe; In the morning he was the richeſt man in all the Eaſt, in the evening one of the pooreſt, ſtripped of all his earthlie riches. Now had his conſcience exhibit<g ref="char:EOLhyphen"/>ed a bill of Endictment againſt him to this effect. The time was <hi>Job,</hi> when thou hadſt worldlie goods, but thou didſt no good with rhy goods: Oh! how would ſuch a charge have cut him to the heart? but his conſcience ſpake other language unto him, <hi>viz.</hi> whilſt thou hadſt earthlie treaſures thou waſt a father to the fatherleſſe, feet to the lame, and eies to the blinde. Thou didſt not eat thy morſels alone, thou didſt not ſee anie periſh for want of cloathing, or anie poor without covering, but they were warmed with the fleece of thy ſheep. And this was no ſmall comfort unto him, nor will it be unto you, if God ſhould turn his hand upon you (as he did upon <hi>Job</hi>) and ſtrip you of your earthlie treaſures.</p>
+            <p n="3">3 Delaies will argue infidelitie, why will ye not lay out ſome part of your earthlie treaſures in your life-time? Is it not becauſe you are afraid your ſelves may want before ye die? This was <hi>Ananias</hi> his ſin and ruine, why did he keep back a part of the price which he had recei<g ref="char:EOLhyphen"/>ved for lands that he had ſold, but becauſe he diſtruſted the Providence of God, and feared, leſt he himſelf ſhould want alſo? hath not the Lord himſelf underta<g ref="char:EOLhyphen"/>ken the re-paiment of what you give unto the poor? <hi>Prov.</hi> 19.17. <hi>He that hath pity upon the poor lendeth unto the Lord, and that which he hath given, will he pay him
+<pb n="47" facs="tcp:170602:28"/> again.</hi> Can you have a better debtor, a better pai-ma<g ref="char:EOLhyphen"/>ſter? Dare you repoſe truſt and confidence in your un<g ref="char:EOLhyphen"/>certain riches, and not in the living God? Hath not he ſaid, that by deviſing liberal things the liberal man ſhall ſtand? Ah, check and crie ſhame upon your unbelief.</p>
+            <p n="4">4 By protracting, delaying your purpoſes you may loſe them; in ſinful motions delaie oftentimes proves beneficial; the execution of them is thereby prevent<g ref="char:EOLhyphen"/>ed; but in good motions delaie proves dangerous and prejudicial: It is good ſtriking whileſt the Iron is hot, our hearts are fickle and unconſtant, Oh how many a good reſolution vaniſheth like the morning dew for want of ſpeedie execution. Something you are reſol<g ref="char:EOLhyphen"/>ved to do, but haplie not till you are old and ſtricken in years. (Alas Sirs) covetouſneſſe is one of the proper luſts of old age, as voluptuouſneſſe is of youth: old men are commonly the moſt covetous, when all other ſins wax old; every ſoul of us hath cauſe to fear, that this ſin will wax young in us. Is it ſafe then to delaie works of charity till old age?</p>
+            <p n="5">5 Although you ſhould not loſe your purpoſes, yet by a ſinful neglect of opportunities and advantages for the doing of good in your life-time, you will incur that known cenſure, Such a mans will at his death was good, but his deeds while he lived ſtark naught; 'tis well that he is gone, for now his goods do ſome good; had he lived longer they would have done none; he was a meer hoarder, not a diſpencer. <hi>Athanaſius</hi> calls almes willed by dying men <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, dead ſacrifices; miſtake me not, I do not condemn Funeral-beneficence ſimply, but I muſt needs commend and prefer Vital be<g ref="char:EOLhyphen"/>fore it. I would not have your charitie and compaſſion die with you. It is not praiſe-worthie, (ſhall I ſpeak
+<pb n="48" facs="tcp:170602:29"/> plainlie?) It is a ſhame that anie rich Citizen ſhould die without ſome Teſtamentarie benevolence unto theſe Hoſpitals. But yet I am an humble ſuitor unto you, that you would not put off all until death, but make your own hands your executors, and your own eies your overſeers, as to ſome part of your earthlie trea<g ref="char:EOLhyphen"/>ſures. For,</p>
+            <p n="6">6 The preſent Revenues and certain In-comes of theſe Hoſpitals come ſhort of what is diſpended for the relief of ſuch as are admitted into them. And there<g ref="char:EOLhyphen"/>fore now you that are great men and good men, may be like good trees bringing forth good fruit in due ſea<g ref="char:EOLhyphen"/>ſon, you may do a good work in a good time, you know the old rule, <hi>Bis dat qui aitò dat.</hi> I would not have you think that you ſhall be crowned in heaven for the merit or worth of your beneficence and liberality on earth, whether Vital or Funeral: when you have done all, you muſt ſay with <hi>Bernard, Meritum meum miſeratio Domi<g ref="char:EOLhyphen"/>ni,</hi> my merit is the Lords mereie, <hi>I am an an unprofitable ſervant,</hi> yet if the Lord give you open hearts and open hands to relieve the needie, he will crown his own gifts and graces in you (though not your merits) with glorie.</p>
+            <p>Conſider what I have ſaid, and the Lord give you underſtanding in all things.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
